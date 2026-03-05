@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Auction Property Explorer</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <aside class="panel">
+        <h1>Auction Property Explorer</h1>
+        <p class="subtitle">Satellite map + unified enriched scoring</p>
+
+        <div class="controls">
+          <label>
+            Search APN/City
+            <input id="searchInput" type="text" placeholder="e.g. 4906313100 or La Mesa" />
+          </label>
+          <label>
+            County
+            <select id="countySelect">
+              <option value="all">All</option>
+              <option value="San Diego">San Diego</option>
+              <option value="Riverside">Riverside</option>
+            </select>
+          </label>
+          <label>
+            Min Unified Score
+            <input id="minScoreInput" type="number" min="0" max="100" step="1" value="0" />
+          </label>
+          <label class="inline">
+            <input id="recommendedOnly" type="checkbox" />
+            Bid candidates only
+          </label>
+          <label class="inline">
+            <input id="showBoundaries" type="checkbox" />
+            Show parcel boundaries
+          </label>
+          <label>
+            Show top
+            <input id="limitInput" type="number" min="10" max="1500" step="10" value="300" />
+          </label>
+          <button id="resetBtn">Reset Filters</button>
+        </div>
+
+        <div class="stats" id="stats"></div>
+        <div class="list" id="propertyList"></div>
+      </aside>
+      <main class="map-wrap">
+        <div id="map"></div>
+      </main>
+    </div>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

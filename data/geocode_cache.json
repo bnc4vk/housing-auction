@@ -1,0 +1,2669 @@
+{
+  "1010 BAYWOOD CIR #D CHULA VISTA CA 91915-1138": {
+    "lat": 32.645212623375,
+    "lon": -116.964728803024,
+    "matched_address": "1010 BAYWOOD CIR, CHULA VISTA, CA, 91915",
+    "side": "L",
+    "tiger_line_id": "195703992"
+  },
+  "1021 E COMMONWEALTH AVE SAN JACINTO 92583, E Commonwealth Ave San Jacinto CA 92583.0": {
+    "lat": 33.769427633346,
+    "lon": -116.943553108421,
+    "matched_address": "1021 E COMMONWEALTH AVE, SAN JACINTO, CA, 92583",
+    "side": "L",
+    "tiger_line_id": "608999142"
+  },
+  "10225 ALPHONSE ST SANTEE CA 92071-1281": {
+    "lat": 32.871271250534,
+    "lon": -116.97499959007,
+    "matched_address": "10225 ALPHONSE ST, SANTEE, CA, 92071",
+    "side": "R",
+    "tiger_line_id": "195324431"
+  },
+  "10245 CLARA VISTA LN RIVERSIDE 92503, Clara Vista Ln Riverside CA 92503.0": {
+    "lat": 33.9204436495,
+    "lon": -117.467171579976,
+    "matched_address": "10245 CLARA VISTA LN, RIVERSIDE, CA, 92503",
+    "side": "R",
+    "tiger_line_id": "194836097"
+  },
+  "10269 VERNON AVE BLYTHE 92225, Vernon Ave Blythe CA 92225.0": {},
+  "1037 SERFAS CLUB DR CORONA 92882, Serfas Club Dr Corona CA 92882.0": {
+    "lat": 33.874990181901,
+    "lon": -117.616181160413,
+    "matched_address": "1037 SERFAS CLUB DR, CORONA, CA, 92882",
+    "side": "L",
+    "tiger_line_id": "194874017"
+  },
+  "10956 CHERRY AVE BEAUMONT 92223, Cherry Ave Beaumont CA 92223.0": {
+    "lat": 33.962175049366,
+    "lon": -116.964119369721,
+    "matched_address": "10956 CHERRY AVE, BEAUMONT, CA, 92223",
+    "side": "L",
+    "tiger_line_id": "195075739"
+  },
+  "10TH ST BORREGO SPRINGS CA 92004": {},
+  "1140 E HOBSONWAY BLYTHE 92225, E Hobsonway Blythe CA 92225.0": {
+    "lat": 33.610571918492,
+    "lon": -114.584081008878,
+    "matched_address": "1140 E HOBSONWAY, BLYTHE, CA, 92225",
+    "side": "R",
+    "tiger_line_id": "194681937"
+  },
+  "11608 TRAILBROOK LN SAN DIEGO CA 92128-6341": {},
+  "1170 SEARS ST NORCO 92860, Sears St Norco CA 92860.0": {
+    "lat": 33.934081917197,
+    "lon": -117.546252079455,
+    "matched_address": "1170 SEARS ST, NORCO, CA, 92860",
+    "side": "L",
+    "tiger_line_id": "194735301"
+  },
+  "1175 CHERRY AVE BEAUMONT 92223, Cherry Ave Beaumont CA 92223.0": {},
+  "120 PACIFIC ST #K1 SAN MARCOS CA 92069-1268": {
+    "lat": 33.144912305491,
+    "lon": -117.195848690891,
+    "matched_address": "120 PACIFIC ST, SAN MARCOS, CA, 92069",
+    "side": "R",
+    "tiger_line_id": "612863153"
+  },
+  "120 W MONTROSE AVE HEMET 92543, W Montrose Ave Hemet CA 92543.0": {
+    "lat": 33.738163404432,
+    "lon": -116.971918475728,
+    "matched_address": "120 W MONTROSE AVE, HEMET, CA, 92543",
+    "side": "R",
+    "tiger_line_id": "194757021"
+  },
+  "121 S PACIFIC ST OCEANSIDE CA 92054-2917": {
+    "lat": 33.192436821726,
+    "lon": -117.381868919048,
+    "matched_address": "121 S PACIFIC ST, OCEANSIDE, CA, 92054",
+    "side": "R",
+    "tiger_line_id": "195458545"
+  },
+  "1210 CAMINITO CEDRO SAN DIEGO CA 92154-3244": {
+    "lat": 32.574149947864,
+    "lon": -117.079357471526,
+    "matched_address": "1210 CMT CEDRO, SAN DIEGO, CA, 92154",
+    "side": "R",
+    "tiger_line_id": "195358002"
+  },
+  "1258 FRONTIER DR SAN JACINTO 92583, Frontier Dr San Jacinto CA 92583.0": {
+    "lat": 33.80324548871,
+    "lon": -116.973640194422,
+    "matched_address": "1258 FRONTIER DR, SAN JACINTO, CA, 92583",
+    "side": "L",
+    "tiger_line_id": "194871371"
+  },
+  "1296 E CHRISTIE ST BANNING 92220, E Christie St Banning CA 92220.0": {},
+  "13 PLAZA AVILA LAKE ELSINORE 92532, Plaza Avila Lake Elsinore CA 92532.0": {
+    "lat": 33.676460421641,
+    "lon": -117.284076646727,
+    "matched_address": "13 PLZ AVILA, LAKE ELSINORE, CA, 92532",
+    "side": "L",
+    "tiger_line_id": "194838742"
+  },
+  "13180 JOSHUA RD WHITEWATER 92282, Joshua Rd Whitewater CA 92282.0": {
+    "lat": 33.928343694232,
+    "lon": -116.688073536478,
+    "matched_address": "13180 JOSHUA RD, WHITEWATER, CA, 92282",
+    "side": "L",
+    "tiger_line_id": "194759917"
+  },
+  "13365 MORENO WAY MORENO VALLEY 92553, Moreno Way Moreno Valley CA 92553.0": {
+    "lat": 33.926457480827,
+    "lon": -117.230284195106,
+    "matched_address": "13365 MORENO WAY, MORENO VALLEY, CA, 92553",
+    "side": "R",
+    "tiger_line_id": "194749577"
+  },
+  "13759 REDLANDS BLVD MORENO VALLEY 92555, Redlands Blvd Moreno Valley CA 92555.0": {
+    "lat": 33.920955802079,
+    "lon": -117.156747055484,
+    "matched_address": "13759 REDLANDS BLVD, MORENO VALLEY, CA, 92555",
+    "side": "R",
+    "tiger_line_id": "194750715"
+  },
+  "13793 REDLANDS BLVD MORENO VALLEY 92553, Redlands Blvd Moreno Valley CA 92553.0": {
+    "lat": 33.920297013606,
+    "lon": -117.156751696922,
+    "matched_address": "13793 REDLANDS BLVD, MORENO VALLEY, CA, 92555",
+    "side": "R",
+    "tiger_line_id": "194750715"
+  },
+  "141 W SAN YSIDRO BLVD SAN YSIDRO CA 92173-2555": {
+    "lat": 32.552955667123,
+    "lon": -117.045888907323,
+    "matched_address": "141 W SAN YSIDRO BLVD, SAN YSIDRO, CA, 92173",
+    "side": "R",
+    "tiger_line_id": "195365056"
+  },
+  "1415 ORANGE AVE #113 CORONADO CA 92118-2948": {
+    "lat": 32.68220098275,
+    "lon": -117.177780359275,
+    "matched_address": "1415 ORANGE AVE, CORONADO, CA, 92118",
+    "side": "L",
+    "tiger_line_id": "636006917"
+  },
+  "1415 ORANGE AVE #201 CORONADO CA 92118-2948": {
+    "lat": 32.68220098275,
+    "lon": -117.177780359275,
+    "matched_address": "1415 ORANGE AVE, CORONADO, CA, 92118",
+    "side": "L",
+    "tiger_line_id": "636006917"
+  },
+  "1415 ORANGE AVE #221 CORONADO CA 92118-2948": {
+    "lat": 32.68220098275,
+    "lon": -117.177780359275,
+    "matched_address": "1415 ORANGE AVE, CORONADO, CA, 92118",
+    "side": "L",
+    "tiger_line_id": "636006917"
+  },
+  "1415 ORANGE AVE #301 CORONADO CA 92118-2948": {
+    "lat": 32.68220098275,
+    "lon": -117.177780359275,
+    "matched_address": "1415 ORANGE AVE, CORONADO, CA, 92118",
+    "side": "L",
+    "tiger_line_id": "636006917"
+  },
+  "1415 ORANGE AVE #306 CORONADO CA 92118-2948": {
+    "lat": 32.68220098275,
+    "lon": -117.177780359275,
+    "matched_address": "1415 ORANGE AVE, CORONADO, CA, 92118",
+    "side": "L",
+    "tiger_line_id": "636006917"
+  },
+  "1415 ORANGE AVE #308 CORONADO CA 92118-2948": {
+    "lat": 32.68220098275,
+    "lon": -117.177780359275,
+    "matched_address": "1415 ORANGE AVE, CORONADO, CA, 92118",
+    "side": "L",
+    "tiger_line_id": "636006917"
+  },
+  "1415 ORANGE AVE #323 CORONADO CA 92118-2948": {
+    "lat": 32.68220098275,
+    "lon": -117.177780359275,
+    "matched_address": "1415 ORANGE AVE, CORONADO, CA, 92118",
+    "side": "L",
+    "tiger_line_id": "636006917"
+  },
+  "1415 ORANGE AVE CORONADO CA 92118-2948": {
+    "lat": 32.68220098275,
+    "lon": -117.177780359275,
+    "matched_address": "1415 ORANGE AVE, CORONADO, CA, 92118",
+    "side": "L",
+    "tiger_line_id": "636006917"
+  },
+  "14151 VISTA GRANDE DR RIVERSIDE 92508, Vista Grande Dr Riverside CA 92508.0": {
+    "lat": 33.914313602864,
+    "lon": -117.309706524478,
+    "matched_address": "14151 VISTA GRANDE DR, RIVERSIDE, CA, 92508",
+    "side": "R",
+    "tiger_line_id": "194747023"
+  },
+  "1420 OCEAN AVE DEL MAR CA 92014-2337": {
+    "lat": 32.957997604184,
+    "lon": -117.266750236446,
+    "matched_address": "1420 OCEAN AVE, DEL MAR, CA, 92014",
+    "side": "L",
+    "tiger_line_id": "612882680"
+  },
+  "14600 INNOVATION DR RIVERSIDE 92518, Innovation Dr Riverside CA 92518.0": {},
+  "147 HARBISON CANYON RD EL CAJON CA 92019-1520": {
+    "lat": 32.825742148371,
+    "lon": -116.825486859977,
+    "matched_address": "147 HARBISON CANYON RD, EL CAJON, CA, 92019",
+    "side": "R",
+    "tiger_line_id": "629813746"
+  },
+  "15047 SUNRISE AVE CABAZON 92230, Sunrise Ave Cabazon CA 92230.0": {
+    "lat": 33.902316744246,
+    "lon": -116.758421313496,
+    "matched_address": "15047 SUNRISE AVE, CABAZON, CA, 92230",
+    "side": "L",
+    "tiger_line_id": "194689206"
+  },
+  "15400 VIA VISTA DESERT HOT SPRINGS 92240, Via Vista Desert Hot Springs CA 92240.0": {
+    "lat": 33.936623166394,
+    "lon": -116.496111140474,
+    "matched_address": "15400 VIA VIS, DESERT HOT SPRINGS, CA, 92240",
+    "side": "R",
+    "tiger_line_id": "194691149"
+  },
+  "15449 GEMSTONE CT MORENO VALLEY 92551, Gemstone Ct Moreno Valley CA 92551.0": {
+    "lat": 33.896410804243,
+    "lon": -117.240941283071,
+    "matched_address": "15449 GEMSTONE CT, MORENO VALLEY, CA, 92551",
+    "side": "L",
+    "tiger_line_id": "194790747"
+  },
+  "155 KALBAUGH ST RAMONA CA 92065-3827": {
+    "lat": 33.030561552832,
+    "lon": -116.893807486648,
+    "matched_address": "155 KALBAUGH ST, RAMONA, CA, 92065",
+    "side": "R",
+    "tiger_line_id": "195329956"
+  },
+  "15501 DAVIS CUP LN RAMONA CA 92065": {
+    "lat": 33.003210358413,
+    "lon": -116.777660618871,
+    "matched_address": "15501 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "645489029"
+  },
+  "15507 DAVIS CUP LN RAMONA CA 92065": {
+    "lat": 33.003070429626,
+    "lon": -116.777763124851,
+    "matched_address": "15507 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "645489029"
+  },
+  "15509 DAVIS CUP LN RAMONA CA 92065": {
+    "lat": 33.003023786698,
+    "lon": -116.777797293511,
+    "matched_address": "15509 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "645489029"
+  },
+  "15511 DAVIS CUP LN RAMONA CA 92065": {
+    "lat": 33.002977143769,
+    "lon": -116.777831462171,
+    "matched_address": "15511 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "645489029"
+  },
+  "15515 DAVIS CUP LN RAMONA CA 92065": {
+    "lat": 33.002883857912,
+    "lon": -116.777899799491,
+    "matched_address": "15515 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "645489029"
+  },
+  "15517 DAVIS CUP LN RAMONA CA 92065": {
+    "lat": 33.002837054688,
+    "lon": -116.777933953932,
+    "matched_address": "15517 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "645489029"
+  },
+  "15519 DAVIS CUP LN RAMONA CA 92065": {
+    "lat": 33.002790346525,
+    "lon": -116.777967995477,
+    "matched_address": "15519 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "645489029"
+  },
+  "15523 DAVIS CUP LN RAMONA CA 92065": {
+    "lat": 33.0026969302,
+    "lon": -116.778036078567,
+    "matched_address": "15523 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "645489029"
+  },
+  "15526 DAVIS CUP LN RAMONA CA 92065": {},
+  "15527 DAVIS CUP LN RAMONA CA 92065": {
+    "lat": 33.002603513874,
+    "lon": -116.778104161658,
+    "matched_address": "15527 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "645489029"
+  },
+  "15529 DAVIS CUP LN RAMONA CA 92065": {
+    "lat": 33.002556805712,
+    "lon": -116.778138203203,
+    "matched_address": "15529 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "645489029"
+  },
+  "15531 DAVIS CUP LN RAMONA CA 92065": {
+    "lat": 33.002510097549,
+    "lon": -116.778172244748,
+    "matched_address": "15531 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "645489029"
+  },
+  "15533 DAVIS CUP LN RAMONA CA 92065": {
+    "lat": 33.002463389386,
+    "lon": -116.778206286293,
+    "matched_address": "15533 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "645489029"
+  },
+  "15535 DAVIS CUP LN RAMONA CA 92065": {
+    "lat": 33.002416681223,
+    "lon": -116.778240327839,
+    "matched_address": "15535 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "645489029"
+  },
+  "15549 DAVIS CUP LN RAMONA CA 92065": {
+    "lat": 33.002208388472,
+    "lon": -116.778543458854,
+    "matched_address": "15549 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "645489029"
+  },
+  "15551 DAVIS CUP LN RAMONA CA 92065": {
+    "lat": 33.002200950155,
+    "lon": -116.778598943437,
+    "matched_address": "15551 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "645489029"
+  },
+  "15601 DAVIS CUP LN RAMONA CA 92065-4901": {
+    "lat": 33.001669781805,
+    "lon": -116.780112648031,
+    "matched_address": "15601 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "195331716"
+  },
+  "15613 DAVIS CUP LN RAMONA CA 92065-4901": {
+    "lat": 33.001601415886,
+    "lon": -116.780161077848,
+    "matched_address": "15613 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "195331716"
+  },
+  "15619 DAVIS CUP LN RAMONA CA 92065-4901": {
+    "lat": 33.001574010178,
+    "lon": -116.780189531251,
+    "matched_address": "15619 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "195331716"
+  },
+  "15621 DAVIS CUP LN RAMONA CA 92065-4901": {
+    "lat": 33.00156409907,
+    "lon": -116.780202746062,
+    "matched_address": "15621 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "195331716"
+  },
+  "15625 DAVIS CUP LN RAMONA CA 92065-4901": {
+    "lat": 33.001544276855,
+    "lon": -116.780229175685,
+    "matched_address": "15625 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "195331716"
+  },
+  "15627 VIA SALVADOR VALLEY CENTER CA 92082-6127": {
+    "lat": 33.240690872509,
+    "lon": -116.992881253795,
+    "matched_address": "15627 VIA SALVADOR, VALLEY CENTER, CA, 92082",
+    "side": "R",
+    "tiger_line_id": "655803648"
+  },
+  "15639 DAVIS CUP LN RAMONA CA 92065-4901": {
+    "lat": 33.001491051836,
+    "lon": -116.780321721779,
+    "matched_address": "15639 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "195331716"
+  },
+  "15641 DAVIS CUP LN RAMONA CA 92065-4901": {
+    "lat": 33.00149185089,
+    "lon": -116.780318878373,
+    "matched_address": "15641 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "195331716"
+  },
+  "15643 DAVIS CUP LN RAMONA CA 92065-4901": {
+    "lat": 33.001488042693,
+    "lon": -116.780336015262,
+    "matched_address": "15643 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "195331716"
+  },
+  "15653 DAVIS CUP LN RAMONA CA 92065-4901": {
+    "lat": 33.001474383993,
+    "lon": -116.780412405401,
+    "matched_address": "15653 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "195331716"
+  },
+  "15659 DAVIS CUP LN RAMONA CA 92065-4901": {
+    "lat": 33.001469577167,
+    "lon": -116.780465280508,
+    "matched_address": "15659 DAVIS CUP LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "195331716"
+  },
+  "1570 CAMINO DEL MAR #604A DEL MAR CA 92014-2411": {
+    "lat": 32.961661511088,
+    "lon": -117.265317850869,
+    "matched_address": "1570 CAM DEL MAR, DEL MAR, CA, 92014",
+    "side": "L",
+    "tiger_line_id": "612853708"
+  },
+  "1570 CAMINO DEL MAR #608B DEL MAR CA 92014-2411": {
+    "lat": 32.961661511088,
+    "lon": -117.265317850869,
+    "matched_address": "1570 CAM DEL MAR, DEL MAR, CA, 92014",
+    "side": "L",
+    "tiger_line_id": "612853708"
+  },
+  "16154 VIA QUEDO DESERT HOT SPRINGS 92240, Via Quedo Desert Hot Springs CA 92240.0": {
+    "lat": 33.931066725056,
+    "lon": -116.495360783136,
+    "matched_address": "16154 VIA QUEDO, DESERT HOT SPRINGS, CA, 92240",
+    "side": "R",
+    "tiger_line_id": "194691301"
+  },
+  "16385 MOCKINGBIRD CANYON RD RIVERSIDE 92504, Mockingbird Canyon Rd Riverside CA 92504.0": {
+    "lat": 33.879358088946,
+    "lon": -117.401334885351,
+    "matched_address": "16385 MOCKINGBIRD CANYON RD, RIVERSIDE, CA, 92504",
+    "side": "R",
+    "tiger_line_id": "194744007"
+  },
+  "1645 EL CERRITO DR HEMET 92543, El Cerrito Dr Hemet CA 92543.0": {
+    "lat": 33.731699965749,
+    "lon": -116.987817575461,
+    "matched_address": "1645 EL CERRITO DR, HEMET, CA, 92543",
+    "side": "R",
+    "tiger_line_id": "194756717"
+  },
+  "16501 MOCKINGBIRD CANYON RD RIVERSIDE 92504, Mockingbird Canyon Rd Riverside CA 92504.0": {
+    "lat": 33.879034626895,
+    "lon": -117.401024900946,
+    "matched_address": "16501 MOCKINGBIRD CANYON RD, RIVERSIDE, CA, 92504",
+    "side": "R",
+    "tiger_line_id": "194744007"
+  },
+  "1702 LAYNE PL EL CAJON CA 92019-4265": {
+    "lat": 32.761415896065,
+    "lon": -116.912693272324,
+    "matched_address": "1702 LAYNE PL, EL CAJON, CA, 92019",
+    "side": "R",
+    "tiger_line_id": "195656322"
+  },
+  "1710 SAN SIMEON DR HEMET 92545, San Simeon Dr Hemet CA 92545.0": {
+    "lat": 33.731773406163,
+    "lon": -116.989879131548,
+    "matched_address": "1710 SAN SIMEON DR, HEMET, CA, 92545",
+    "side": "L",
+    "tiger_line_id": "194756687"
+  },
+  "17322 SHRIER DR LAKE ELSINORE 92530, Shrier Dr Lake Elsinore CA 92530.0": {
+    "lat": 33.689289383314,
+    "lon": -117.358374447381,
+    "matched_address": "17322 SHRIER DR, LAKE ELSINORE, CA, 92530",
+    "side": "L",
+    "tiger_line_id": "638578863"
+  },
+  "17388 MARIPOSA AVE RIVERSIDE 92504, Mariposa Ave Riverside CA 92504.0": {
+    "lat": 33.872667121925,
+    "lon": -117.358738946153,
+    "matched_address": "17388 MARIPOSA AVE, RIVERSIDE, CA, 92504",
+    "side": "L",
+    "tiger_line_id": "194859654"
+  },
+  "17890 KRAMERIA AVE RIVERSIDE 92508, Krameria Ave Riverside CA 92508.0": {
+    "lat": 33.879990439758,
+    "lon": -117.350729526512,
+    "matched_address": "17890 KRAMERIA AVE, RIVERSIDE, CA, 92504",
+    "side": "L",
+    "tiger_line_id": "646129280"
+  },
+  "18 ASHBY CIR PALM SPRINGS 92262, Ashby Cir Palm Springs CA 92262.0": {
+    "lat": 33.862053228938,
+    "lon": -116.556277618491,
+    "matched_address": "18 ASHBY CIR, PALM SPRINGS, CA, 92262",
+    "side": "L",
+    "tiger_line_id": "194760779"
+  },
+  "1804 GAMMA ST NATIONAL CITY CA 91950-1829": {
+    "lat": 32.689917049392,
+    "lon": -117.09042262834,
+    "matched_address": "1804 GAMMA ST, NATIONAL CITY, CA, 91950",
+    "side": "R",
+    "tiger_line_id": "195352371"
+  },
+  "182 PASEO FLORIDO PALM SPRINGS 92262, Paseo Florido Palm Springs CA 92262.0": {},
+  "18241 BLYTHE WAY BLYTHE 92225, Blythe Way Blythe CA 92225.0": {
+    "lat": 33.602913354998,
+    "lon": -114.729738682315,
+    "matched_address": "18241 BLYTHE WAY, BLYTHE, CA, 92225",
+    "side": "L",
+    "tiger_line_id": "194680924"
+  },
+  "18245 EUREKA DR BLYTHE 92225, Eureka Dr Blythe CA 92225.0": {
+    "lat": 33.605321934,
+    "lon": -114.732107466443,
+    "matched_address": "18245 EUREKA DR, BLYTHE, CA, 92225",
+    "side": "L",
+    "tiger_line_id": "608976045"
+  },
+  "185 BEVERLY DR BANNING 92220, Beverly Dr Banning CA 92220.0": {
+    "lat": 33.930134311004,
+    "lon": -116.935217578691,
+    "matched_address": "185 BEVERLY DR, BANNING, CA, 92220",
+    "side": "R",
+    "tiger_line_id": "194720840"
+  },
+  "18580 DECKER RD PERRIS 92570, Decker Rd Perris CA 92570.0": {
+    "lat": 33.851195904533,
+    "lon": -117.268602658879,
+    "matched_address": "18580 DECKER RD, PERRIS, CA, 92570",
+    "side": "L",
+    "tiger_line_id": "194748586"
+  },
+  "18772 LAWSON HILLS RD JAMUL CA 91935-2605": {
+    "lat": 32.759383298897,
+    "lon": -116.745175359096,
+    "matched_address": "18772 LAWSON HILLS RD, JAMUL, CA, 91935",
+    "side": "L",
+    "tiger_line_id": "195728016"
+  },
+  "18809 DEER TR BANNING 92220, Deer Tr Banning CA 92220.0": {},
+  "18902 WOODCREST LN RIVERSIDE 92508, Woodcrest Ln Riverside CA 92508.0": {
+    "lat": 33.877604298942,
+    "lon": -117.332741314366,
+    "matched_address": "18902 WOODCREST LN, RIVERSIDE, CA, 92508",
+    "side": "L",
+    "tiger_line_id": "194748017"
+  },
+  "1901 TREBUCHET DR BORREGO SPRINGS CA 92004-4213": {
+    "lat": 33.274248799829,
+    "lon": -116.391438550346,
+    "matched_address": "1901 TREBUCHET DR, BORREGO SPRINGS, CA, 92004",
+    "side": "R",
+    "tiger_line_id": "195368178"
+  },
+  "19280 DAY ST PERRIS 92570, Day St Perris CA 92570.0": {
+    "lat": 33.840049509872,
+    "lon": -117.278865011989,
+    "matched_address": "19280 DAY ST, PERRIS, CA, 92570",
+    "side": "L",
+    "tiger_line_id": "194748802"
+  },
+  "1942 E OAKLAND AVE HEMET 92544, E Oakland Ave Hemet CA 92544.0": {
+    "lat": 33.754948401361,
+    "lon": -116.951659470131,
+    "matched_address": "1942 E OAKLAND AVE, HEMET, CA, 92544",
+    "side": "L",
+    "tiger_line_id": "194756459"
+  },
+  "1961 ARABY DR PALM SPRINGS 92264, Araby Dr Palm Springs CA 92264.0": {
+    "lat": 33.796733263384,
+    "lon": -116.515123576821,
+    "matched_address": "1961 ARABY DR, PALM SPRINGS, CA, 92264",
+    "side": "R",
+    "tiger_line_id": "651007706"
+  },
+  "199 W VIA OLIVERA PALM SPRINGS 92262, W Via Olivera Palm Springs CA 92262.0": {
+    "lat": 33.850269901421,
+    "lon": -116.548374060484,
+    "matched_address": "199 W VIA OLIVERA, PALM SPRINGS, CA, 92262",
+    "side": "R",
+    "tiger_line_id": "194760973"
+  },
+  "201 W VIA OLIVERA PALM SPRINGS 92262, W Via Olivera Palm Springs CA 92262.0": {
+    "lat": 33.850269612899,
+    "lon": -116.548400893187,
+    "matched_address": "201 W VIA OLIVERA, PALM SPRINGS, CA, 92262",
+    "side": "R",
+    "tiger_line_id": "194760973"
+  },
+  "20380 BROWN ST PERRIS 92570, Brown St Perris CA 92570.0": {
+    "lat": 33.824257385988,
+    "lon": -117.296201933639,
+    "matched_address": "20380 BROWN ST, PERRIS, CA, 92570",
+    "side": "L",
+    "tiger_line_id": "194831571"
+  },
+  "2083 TREBUCHET DR BORREGO SPRINGS CA 92004-4222": {
+    "lat": 33.27107643388,
+    "lon": -116.390710008242,
+    "matched_address": "2083 TREBUCHET DR, BORREGO SPRINGS, CA, 92004",
+    "side": "R",
+    "tiger_line_id": "195274755"
+  },
+  "2111 TOCA LN RAMONA CA 92065-3628": {
+    "lat": 33.01076723679,
+    "lon": -116.900667960608,
+    "matched_address": "2111 TOCA LN, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "195330189"
+  },
+  "21180 BENTLEY DR PERRIS 92570, Bentley Dr Perris CA 92570.0": {
+    "lat": 33.812856104798,
+    "lon": -117.406764869609,
+    "matched_address": "21180 BENTLEY DR, PERRIS, CA, 92570",
+    "side": "L",
+    "tiger_line_id": "194744277"
+  },
+  "21530 VIEWHEIGHTS ST RIVERSIDE 92507, Viewheights St Riverside CA 92507.0": {},
+  "2155 BEGLEY CIR CORONA 92881, Begley Cir Corona CA 92881.0": {
+    "lat": 33.850988137114,
+    "lon": -117.544094957094,
+    "matched_address": "2155 BEGLEY CIR, CORONA, CA, 92881",
+    "side": "L",
+    "tiger_line_id": "194872788"
+  },
+  "21612 RONALD RD NUEVO 92567, Ronald Rd Nuevo CA 92567.0": {
+    "lat": 33.80666522968,
+    "lon": -117.064676586532,
+    "matched_address": "21612 RONALD RD, NUEVO, CA, 92567",
+    "side": "L",
+    "tiger_line_id": "194820695"
+  },
+  "2167 N SANTA FE AVE VISTA CA 92084-2503": {
+    "lat": 33.233591606697,
+    "lon": -117.250060534313,
+    "matched_address": "2167 N SANTA FE AVE, VISTA, CA, 92084",
+    "side": "R",
+    "tiger_line_id": "195696713"
+  },
+  "21740 STEELE PEAK DR PERRIS 92570, Steele Peak Dr Perris CA 92570.0": {
+    "lat": 33.762708997969,
+    "lon": -117.280556285437,
+    "matched_address": "21740 STEEL PEAK DR, PERRIS, CA, 92570",
+    "side": "R",
+    "tiger_line_id": "194726560"
+  },
+  "21785 RIDER ST PERRIS 92570, Rider St Perris CA 92570.0": {
+    "lat": 33.82994478258,
+    "lon": -117.282028685438,
+    "matched_address": "21785 RIDER ST, PERRIS, CA, 92570",
+    "side": "R",
+    "tiger_line_id": "194748838"
+  },
+  "2185 JUNIPERO AVE PALM SPRINGS 92262, Junipero Ave Palm Springs CA 92262.0": {},
+  "21983 RIDER ST PERRIS 92570, Rider St Perris CA 92570.0": {
+    "lat": 33.829974819362,
+    "lon": -117.279275109871,
+    "matched_address": "21983 RIDER ST, PERRIS, CA, 92570",
+    "side": "R",
+    "tiger_line_id": "194748838"
+  },
+  "2241 MELROSE ST NATIONAL CITY CA 91950-2058": {
+    "lat": 32.688532046807,
+    "lon": -117.086113378683,
+    "matched_address": "2241 MELROSE ST, NATIONAL CITY, CA, 91950",
+    "side": "L",
+    "tiger_line_id": "195352444"
+  },
+  "22620 FORREST RD PERRIS 92570, Forrest Rd Perris CA 92570.0": {
+    "lat": 33.789391085211,
+    "lon": -117.282962852183,
+    "matched_address": "22620 FORREST RD, PERRIS, CA, 92570",
+    "side": "R",
+    "tiger_line_id": "194726210"
+  },
+  "22752 KINROSS LN MORENO VALLEY 92557, Kinross Ln Moreno Valley CA 92557.0": {
+    "lat": 33.941487046005,
+    "lon": -117.266823173296,
+    "matched_address": "22752 KINROSS LN, MORENO VALLEY, CA, 92557",
+    "side": "L",
+    "tiger_line_id": "194747441"
+  },
+  "22919 MARKHAM ST PERRIS 92570, Markham St Perris CA 92570.0": {
+    "lat": 33.851792675812,
+    "lon": -117.262731693414,
+    "matched_address": "22919 MARKHAM ST, PERRIS, CA, 92570",
+    "side": "R",
+    "tiger_line_id": "194748637"
+  },
+  "23 LINCOLN PL RANCHO MIRAGE 92270, Lincoln Pl Rancho Mirage CA 92270.0": {
+    "lat": 33.785495752654,
+    "lon": -116.436759670344,
+    "matched_address": "23 LINCOLN PL, RANCHO MIRAGE, CA, 92270",
+    "side": "L",
+    "tiger_line_id": "194767882"
+  },
+  "23036 BLUE BIRD DR CANYON LAKE 92587, Blue Bird Dr Canyon Lake CA 92587.0": {
+    "lat": 33.679002889551,
+    "lon": -117.25727978019,
+    "matched_address": "23036 BLUE BIRD DR, CANYON LAKE, CA, 92587",
+    "side": "R",
+    "tiger_line_id": "194707359"
+  },
+  "23436 HIGHWAY 79 WARNER SPRINGS CA 92086-9234": {},
+  "2355 CHATTERTON LN NORCO 92860, Chatterton Ln Norco CA 92860.0": {
+    "lat": 33.912279375167,
+    "lon": -117.568735217265,
+    "matched_address": "2355 CHATTERTON LN, NORCO, CA, 92860",
+    "side": "R",
+    "tiger_line_id": "194731678"
+  },
+  "23550 SHREEDER PL CANYON LAKE 92587, Shreeder Pl Canyon Lake CA 92587.0": {
+    "lat": 33.705604446748,
+    "lon": -117.24849038059,
+    "matched_address": "23550 SHREEDER PL, CANYON LAKE, CA, 92587",
+    "side": "L",
+    "tiger_line_id": "194710821"
+  },
+  "23675 PICO AVE MENIFEE 92585, Pico Ave Menifee CA 92585.0": {
+    "lat": 33.776748749774,
+    "lon": -117.165128334952,
+    "matched_address": "23675 PICO AVE, MENIFEE, CA, 92585",
+    "side": "L",
+    "tiger_line_id": "194795745"
+  },
+  "237 S BUENA VISTA ST HEMET 92543, S Buena Vista St Hemet CA 92543.0": {
+    "lat": 33.745068487111,
+    "lon": -116.967370299706,
+    "matched_address": "237 S BUENA VISTA ST, HEMET, CA, 92543",
+    "side": "R",
+    "tiger_line_id": "194756347"
+  },
+  "24191 PALOMAS AVE RIPLEY 92272, Palomas Ave Ripley CA 92272.0": {
+    "lat": 33.528771588131,
+    "lon": -114.655215860495,
+    "matched_address": "24191 PALOMAS AVE, RIPLEY, CA, 92225",
+    "side": "R",
+    "tiger_line_id": "195050293"
+  },
+  "24320 FIR AVE MORENO VALLEY 92553, Fir Ave Moreno Valley CA 92553.0": {
+    "lat": 33.935488396356,
+    "lon": -117.238367891151,
+    "matched_address": "24320 FIR AVE, MORENO VALLEY, CA, 92553",
+    "side": "L",
+    "tiger_line_id": "194856224"
+  },
+  "24500 LAS FLORES DR CANYON LAKE 92587, Las Flores Dr Canyon Lake CA 92587.0": {
+    "lat": 33.695920691247,
+    "lon": -117.236207714698,
+    "matched_address": "24500 LAS FLORES DR, CANYON LAKE, CA, 92587",
+    "side": "L",
+    "tiger_line_id": "195079199"
+  },
+  "2457 W OAKLAND AVE HEMET 92545, W Oakland Ave Hemet CA 92545.0": {
+    "lat": 33.754729362389,
+    "lon": -116.997404277206,
+    "matched_address": "2457 W OAKLAND AVE, HEMET, CA, 92545",
+    "side": "R",
+    "tiger_line_id": "194755049"
+  },
+  "2463 FALLING OAK DR RIVERSIDE 92506, Falling Oak Dr Riverside CA 92506.0": {
+    "lat": 33.928002972812,
+    "lon": -117.383391253199,
+    "matched_address": "2463 FALLING OAK DR, RIVERSIDE, CA, 92506",
+    "side": "R",
+    "tiger_line_id": "194743466"
+  },
+  "2469 S SAN JACINTO ST SAN JACINTO 92583, S San Jacinto St San Jacinto CA 92583.0": {},
+  "24755 THORNBERRY CIR MORENO VALLEY 92557, Thornberry Cir Moreno Valley CA 92557.0": {
+    "lat": 33.962990403594,
+    "lon": -117.230789856931,
+    "matched_address": "24755 THORNBERRY CIR, MORENO VALLEY, CA, 92557",
+    "side": "R",
+    "tiger_line_id": "194790527"
+  },
+  "2511 12TH ST RIVERSIDE 92507, St Riverside CA 92507.0": {
+    "lat": 33.971944393656,
+    "lon": -117.363314634647,
+    "matched_address": "2511 12TH ST, RIVERSIDE, CA, 92507",
+    "side": "R",
+    "tiger_line_id": "194742525"
+  },
+  "25287 HITCH RAIL LN MENIFEE 92584, Hitch Rail Ln Menifee CA 92584.0": {
+    "lat": 33.683751832847,
+    "lon": -117.21781938611,
+    "matched_address": "25287 HITCH RAIL LN, MENIFEE, CA, 92584",
+    "side": "R",
+    "tiger_line_id": "650886895"
+  },
+  "25382 PAPPAS RD #102 RAMONA CA 92065-4925": {
+    "lat": 33.004023607111,
+    "lon": -116.779688694933,
+    "matched_address": "25382 PAPPAS RD, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "649825402"
+  },
+  "25382 PAPPAS RD #106 RAMONA CA 92065-4925": {
+    "lat": 33.004023607111,
+    "lon": -116.779688694933,
+    "matched_address": "25382 PAPPAS RD, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "649825402"
+  },
+  "25382 PAPPAS RD #22 RAMONA CA 92065-4925": {
+    "lat": 33.004023607111,
+    "lon": -116.779688694933,
+    "matched_address": "25382 PAPPAS RD, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "649825402"
+  },
+  "25382 PAPPAS RD #31 RAMONA CA 92065-4925": {
+    "lat": 33.004023607111,
+    "lon": -116.779688694933,
+    "matched_address": "25382 PAPPAS RD, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "649825402"
+  },
+  "25382 PAPPAS RD #33 RAMONA CA 92065-4925": {
+    "lat": 33.004023607111,
+    "lon": -116.779688694933,
+    "matched_address": "25382 PAPPAS RD, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "649825402"
+  },
+  "25382 PAPPAS RD #34 RAMONA CA 92065-4925": {
+    "lat": 33.004023607111,
+    "lon": -116.779688694933,
+    "matched_address": "25382 PAPPAS RD, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "649825402"
+  },
+  "25382 PAPPAS RD #38 RAMONA CA 92065-4925": {
+    "lat": 33.004023607111,
+    "lon": -116.779688694933,
+    "matched_address": "25382 PAPPAS RD, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "649825402"
+  },
+  "25382 PAPPAS RD #41 RAMONA CA 92065-4925": {
+    "lat": 33.004023607111,
+    "lon": -116.779688694933,
+    "matched_address": "25382 PAPPAS RD, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "649825402"
+  },
+  "25382 PAPPAS RD #47 RAMONA CA 92065-4925": {
+    "lat": 33.004023607111,
+    "lon": -116.779688694933,
+    "matched_address": "25382 PAPPAS RD, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "649825402"
+  },
+  "25382 PAPPAS RD #48 RAMONA CA 92065-4925": {
+    "lat": 33.004023607111,
+    "lon": -116.779688694933,
+    "matched_address": "25382 PAPPAS RD, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "649825402"
+  },
+  "25382 PAPPAS RD #51 RAMONA CA 92065-4925": {
+    "lat": 33.004023607111,
+    "lon": -116.779688694933,
+    "matched_address": "25382 PAPPAS RD, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "649825402"
+  },
+  "25382 PAPPAS RD #52 RAMONA CA 92065-4925": {
+    "lat": 33.004023607111,
+    "lon": -116.779688694933,
+    "matched_address": "25382 PAPPAS RD, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "649825402"
+  },
+  "25382 PAPPAS RD #55 RAMONA CA 92065-4925": {
+    "lat": 33.004023607111,
+    "lon": -116.779688694933,
+    "matched_address": "25382 PAPPAS RD, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "649825402"
+  },
+  "25382 PAPPAS RD #62 RAMONA CA 92065-4925": {
+    "lat": 33.004023607111,
+    "lon": -116.779688694933,
+    "matched_address": "25382 PAPPAS RD, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "649825402"
+  },
+  "25382 PAPPAS RD #63 RAMONA CA 92065-4925": {
+    "lat": 33.004023607111,
+    "lon": -116.779688694933,
+    "matched_address": "25382 PAPPAS RD, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "649825402"
+  },
+  "25382 PAPPAS RD #64 RAMONA CA 92065-4925": {
+    "lat": 33.004023607111,
+    "lon": -116.779688694933,
+    "matched_address": "25382 PAPPAS RD, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "649825402"
+  },
+  "25382 PAPPAS RD #71 RAMONA CA 92065-4925": {
+    "lat": 33.004023607111,
+    "lon": -116.779688694933,
+    "matched_address": "25382 PAPPAS RD, RAMONA, CA, 92065",
+    "side": "L",
+    "tiger_line_id": "649825402"
+  },
+  "25397 JERRY LN HEMET 92544, Jerry Ln Hemet CA 92544.0": {
+    "lat": 33.752409803284,
+    "lon": -116.893877334233,
+    "matched_address": "25397 JERRY LN, HEMET, CA, 92544",
+    "side": "L",
+    "tiger_line_id": "194758834"
+  },
+  "2552 AVENIDA DEL VISTA CORONA 92882, Avenida Del Vista Corona CA 92882.0": {
+    "lat": 33.856527763142,
+    "lon": -117.609884492293,
+    "matched_address": "2552 AVENIDA DEL VIS, CORONA, CA, 92882",
+    "side": "R",
+    "tiger_line_id": "639969803"
+  },
+  "2558 IMPERIAL AVE SAN DIEGO CA 92102-3919": {
+    "lat": 32.706412534827,
+    "lon": -117.138984902136,
+    "matched_address": "2558 IMPERIAL AVE, SAN DIEGO, CA, 92102",
+    "side": "L",
+    "tiger_line_id": "657435502"
+  },
+  "25726 SPRING ST PERRIS 92570, Spring St Perris CA 92570.0": {
+    "lat": 33.746982391323,
+    "lon": -117.279637797602,
+    "matched_address": "25726 SPRING ST, PERRIS, CA, 92570",
+    "side": "R",
+    "tiger_line_id": "647432163"
+  },
+  "25759 4TH ST MENIFEE 92585, St Menifee CA 92585.0": {
+    "lat": 33.746083351604,
+    "lon": -117.172780513889,
+    "matched_address": "25759 4TH ST, MENIFEE, CA, 92585",
+    "side": "L",
+    "tiger_line_id": "194710249"
+  },
+  "25811 ECHO VALLEY RD HOMELAND 92548, Echo Valley Rd Homeland CA 92548.0": {
+    "lat": 33.745359640694,
+    "lon": -117.10252875963,
+    "matched_address": "25811 ECHO VALLEY RD, HOMELAND, CA, 92548",
+    "side": "R",
+    "tiger_line_id": "194754294"
+  },
+  "25940 MCCALL BLVD MENIFEE 92586, Mccall Blvd Menifee CA 92586.0": {
+    "lat": 33.714483862604,
+    "lon": -117.207007516976,
+    "matched_address": "25940 MCCALL BLVD, MENIFEE, CA, 92586",
+    "side": "L",
+    "tiger_line_id": "194710619"
+  },
+  "26030 SULTANAS RD HOMELAND 92548, Sultanas Rd Homeland CA 92548.0": {
+    "lat": 33.742712054423,
+    "lon": -117.12773436796,
+    "matched_address": "26030 SULTANAS RD, HOMELAND, CA, 92548",
+    "side": "R",
+    "tiger_line_id": "194710319"
+  },
+  "2625 VERNA DR CORONA 92883, Verna Dr Corona CA 92883.0": {},
+  "26285 Barnett RD Menifee 92585, Menifee CA": {
+    "lat": 33.736732743408,
+    "lon": -117.193243685858,
+    "matched_address": "26285 BARNETT RD, MENIFEE, CA, 92585",
+    "side": "R",
+    "tiger_line_id": "195083062"
+  },
+  "26534 SUN CITY BLVD MENIFEE 92586, Sun City Blvd Menifee CA 92586.0": {
+    "lat": 33.706072823033,
+    "lon": -117.197725237072,
+    "matched_address": "26534 SUN CITY BLVD, MENIFEE, CA, 92586",
+    "side": "R",
+    "tiger_line_id": "194710822"
+  },
+  "26540 RIM CREEK PATH MENIFEE 92584, Rim Creek Path Menifee CA 92584.0": {
+    "lat": 33.681996354683,
+    "lon": -117.196640575028,
+    "matched_address": "26540 RIM CREEK PATH, MENIFEE, CA, 92584",
+    "side": "R",
+    "tiger_line_id": "623928817"
+  },
+  "26558 LIDO DR MURRIETA 92563, Lido Dr Murrieta CA 92563.0": {
+    "lat": 33.551181417186,
+    "lon": -117.154110723864,
+    "matched_address": "26558 LIDO DR, MURRIETA, CA, 92563",
+    "side": "R",
+    "tiger_line_id": "195088758"
+  },
+  "26657 DRY FALLS DR CORONA 92883, Dry Falls Dr Corona CA 92883.0": {
+    "lat": 33.731844507389,
+    "lon": -117.42593430019,
+    "matched_address": "26657 DRY FALLS DR, CORONA, CA, 92883",
+    "side": "R",
+    "tiger_line_id": "194850196"
+  },
+  "26681 UNIVERSITY DR HEMET 92544, University Dr Hemet CA 92544.0": {
+    "lat": 33.734328728827,
+    "lon": -116.944690585369,
+    "matched_address": "26681 UNIVERSITY DR, HEMET, CA, 92544",
+    "side": "R",
+    "tiger_line_id": "194757470"
+  },
+  "26761 CARANCHO RD TEMECULA 92590, Carancho Rd Temecula CA 92590.0": {
+    "lat": 33.501900897156,
+    "lon": -117.18653347106,
+    "matched_address": "26761 RANCHO CALIFORNIA RD, TEMECULA, CA, 92590",
+    "side": "L",
+    "tiger_line_id": "608996814"
+  },
+  "27017 RANGEWOOD ST MENIFEE 92586, Rangewood St Menifee CA 92586.0": {
+    "lat": 33.728094210437,
+    "lon": -117.205652105278,
+    "matched_address": "27017 RANGEWOOD ST, MENIFEE, CA, 92586",
+    "side": "R",
+    "tiger_line_id": "194831395"
+  },
+  "27297 AIRSTREAM WAY MENIFEE 92585, Airstream Way Menifee CA 92585.0": {
+    "lat": 33.732936825221,
+    "lon": -117.182584578353,
+    "matched_address": "27297 AIRSTREAM WAY, MENIFEE, CA, 92585",
+    "side": "L",
+    "tiger_line_id": "658290450"
+  },
+  "28016 PANORAMA HILLS DR MENIFEE 92584, Panorama Hills Dr Menifee CA 92584.0": {
+    "lat": 33.695169207601,
+    "lon": -117.170869944155,
+    "matched_address": "28016 PANORAMA HILLS DR, MENIFEE, CA, 92584",
+    "side": "L",
+    "tiger_line_id": "608995203"
+  },
+  "28160 WELLS FARGO DR LAKE ELSINORE 92532, Wells Fargo Dr Lake Elsinore CA 92532.0": {},
+  "28178 WELLS FARGO DR LAKE ELSINORE 92532, Wells Fargo Dr Lake Elsinore CA 92532.0": {},
+  "2822 MAIN ST RIVERSIDE 92501, Main St Riverside CA 92501.0": {
+    "lat": 33.990922169621,
+    "lon": -117.368370426272,
+    "matched_address": "2822 MAIN ST, RIVERSIDE, CA, 92501",
+    "side": "L",
+    "tiger_line_id": "195085554"
+  },
+  "28690 FRONT ST TEMECULA 92590, Front St Temecula CA 92590.0": {},
+  "28696 FRONT ST TEMECULA 92590, Front St Temecula CA 92590.0": {},
+  "28706 BRIENWOOD DR ESCONDIDO CA 92026": {},
+  "28891 BRIENWOOD DR ESCONDIDO CA 92026": {
+    "lat": 33.23615587013,
+    "lon": -117.142099504669,
+    "matched_address": "28891 BRIENWOOD DR, ESCONDIDO, CA, 92026",
+    "side": "L",
+    "tiger_line_id": "195307985"
+  },
+  "28893 BRIENWOOD DR ESCONDIDO CA 92026": {
+    "lat": 33.236183522706,
+    "lon": -117.142106417811,
+    "matched_address": "28893 BRIENWOOD DR, ESCONDIDO, CA, 92026",
+    "side": "L",
+    "tiger_line_id": "195307985"
+  },
+  "29040 RANNELLS BLVD RIPLEY 92272, Rannells Blvd Ripley CA 92272.0": {},
+  "29348 MACTAN RD VALLEY CENTER CA 92082-7611": {
+    "lat": 33.245231599159,
+    "lon": -116.992068448517,
+    "matched_address": "29348 MACTAN RD, VALLEY CENTER, CA, 92082",
+    "side": "R",
+    "tiger_line_id": "195423690"
+  },
+  "29972 CHIHUAHUA VALLEY RD WARNER SPRINGS CA 92086-9214": {
+    "lat": 33.384677615771,
+    "lon": -116.68089739857,
+    "matched_address": "29972 CHIHUAHUA VALLEY RD, WARNER SPRINGS, CA, 92086",
+    "side": "L",
+    "tiger_line_id": "195273544"
+  },
+  "29995 MAPES RD MENIFEE 92585, Mapes Rd Menifee CA 92585.0": {
+    "lat": 33.7575980953,
+    "lon": -117.136601621883,
+    "matched_address": "29995 MAPES RD, MENIFEE, CA, 92585",
+    "side": "L",
+    "tiger_line_id": "194728613"
+  },
+  "3001 CARLSBAD INN TIMESHARE CARLSBAD CA 92008": {
+    "lat": 33.158158242899,
+    "lon": -117.351027942668,
+    "matched_address": "3001 CARLSBAD BLVD, CARLSBAD, CA, 92008",
+    "side": "R",
+    "tiger_line_id": "195290380"
+  },
+  "30088 PUERTO VALLARTA WAY MENIFEE 92584, Puerto Vallarta Way Menifee CA 92584.0": {
+    "lat": 33.683291264011,
+    "lon": -117.20303098325,
+    "matched_address": "30088 PUERTO VALLARTA WAY, MENIFEE, CA, 92584",
+    "side": "R",
+    "tiger_line_id": "194812875"
+  },
+  "3045 CARLSBAD BLVD CARLSBAD CA 92008-2906": {
+    "lat": 33.157600682464,
+    "lon": -117.350767562128,
+    "matched_address": "3045 CARLSBAD BLVD, CARLSBAD, CA, 92008",
+    "side": "R",
+    "tiger_line_id": "195290380"
+  },
+  "307 N FRANKLIN ST HEMET 92543, N Franklin St Hemet CA 92543.0": {
+    "lat": 33.751354248791,
+    "lon": -116.966329465191,
+    "matched_address": "307 N FRANKLIN ST, HEMET, CA, 92543",
+    "side": "R",
+    "tiger_line_id": "194756298"
+  },
+  "31080 ROBERTSON ST HOMELAND 92548, Robertson St Homeland CA 92548.0": {
+    "lat": 33.741094000324,
+    "lon": -117.1177775894,
+    "matched_address": "31080 ROBERTSON ST, HOMELAND, CA, 92548",
+    "side": "L",
+    "tiger_line_id": "194754246"
+  },
+  "31146 FRETWELL AVE HOMELAND 92548, Fretwell Ave Homeland CA 92548.0": {
+    "lat": 33.738707136566,
+    "lon": -117.116669272396,
+    "matched_address": "31146 FRETWELL AVE, HOMELAND, CA, 92548",
+    "side": "L",
+    "tiger_line_id": "194754369"
+  },
+  "31170 FRETWELL AVE HOMELAND 92548, Fretwell Ave Homeland CA 92548.0": {
+    "lat": 33.738713026454,
+    "lon": -117.116258156663,
+    "matched_address": "31170 FRETWELL AVE, HOMELAND, CA, 92548",
+    "side": "L",
+    "tiger_line_id": "194754369"
+  },
+  "312 J AVE #44 NATIONAL CITY CA 91950-1564": {
+    "lat": 32.682807739522,
+    "lon": -117.098350246611,
+    "matched_address": "312 J AVE, NATIONAL CITY, CA, 91950",
+    "side": "R",
+    "tiger_line_id": "195349603"
+  },
+  "31262 COOKIE RD WINCHESTER 92596, Cookie Rd Winchester CA 92596.0": {
+    "lat": 33.614426221517,
+    "lon": -117.112618186601,
+    "matched_address": "31262 COOKIE RD, WINCHESTER, CA, 92596",
+    "side": "R",
+    "tiger_line_id": "646285223"
+  },
+  "31881 CORYDON ST WILDOMAR 92595, Corydon St Wildomar CA 92595.0": {
+    "lat": 33.630365821918,
+    "lon": -117.293521188481,
+    "matched_address": "31881 CORYDON ST, WILDOMAR, CA, 92530",
+    "side": "L",
+    "tiger_line_id": "194708449"
+  },
+  "3190 PUESTA DEL SOL CT CORONA 92882, Puesta Del Sol Ct Corona CA 92882.0": {
+    "lat": 33.874459291281,
+    "lon": -117.627665296366,
+    "matched_address": "3190 PUESTA DEL SOL CT, CORONA, CA, 92882",
+    "side": "L",
+    "tiger_line_id": "194839348"
+  },
+  "31921 SWEET WATER LN HOMELAND 92548, Sweet Water Ln Homeland CA 92548.0": {
+    "lat": 33.745735284411,
+    "lon": -117.103650771445,
+    "matched_address": "31921 SWEETWATER LN, HOMELAND, CA, 92548",
+    "side": "R",
+    "tiger_line_id": "194754293"
+  },
+  "3200 CARLSBAD BLVD #201 CARLSBAD CA 92008-3101": {
+    "lat": 33.153895357733,
+    "lon": -117.350057505831,
+    "matched_address": "3200 CARLSBAD BLVD, CARLSBAD, CA, 92008",
+    "side": "L",
+    "tiger_line_id": "195290395"
+  },
+  "3200 CARLSBAD BLVD #206 CARLSBAD CA 92008-3101": {
+    "lat": 33.153895357733,
+    "lon": -117.350057505831,
+    "matched_address": "3200 CARLSBAD BLVD, CARLSBAD, CA, 92008",
+    "side": "L",
+    "tiger_line_id": "195290395"
+  },
+  "3200 CARLSBAD BLVD #213 CARLSBAD CA 92008-3101": {
+    "lat": 33.153895357733,
+    "lon": -117.350057505831,
+    "matched_address": "3200 CARLSBAD BLVD, CARLSBAD, CA, 92008",
+    "side": "L",
+    "tiger_line_id": "195290395"
+  },
+  "3200 CARLSBAD BLVD #333 CARLSBAD CA 92008-3101": {
+    "lat": 33.153895357733,
+    "lon": -117.350057505831,
+    "matched_address": "3200 CARLSBAD BLVD, CARLSBAD, CA, 92008",
+    "side": "L",
+    "tiger_line_id": "195290395"
+  },
+  "3200 CARLSBAD BLVD #339 CARLSBAD CA 92008-3101": {
+    "lat": 33.153895357733,
+    "lon": -117.350057505831,
+    "matched_address": "3200 CARLSBAD BLVD, CARLSBAD, CA, 92008",
+    "side": "L",
+    "tiger_line_id": "195290395"
+  },
+  "3200 CARLSBAD BLVD #348 CARLSBAD CA 92008-3101": {
+    "lat": 33.153895357733,
+    "lon": -117.350057505831,
+    "matched_address": "3200 CARLSBAD BLVD, CARLSBAD, CA, 92008",
+    "side": "L",
+    "tiger_line_id": "195290395"
+  },
+  "3200 CARLSBAD BLVD #349 CARLSBAD CA 92008-3101": {
+    "lat": 33.153895357733,
+    "lon": -117.350057505831,
+    "matched_address": "3200 CARLSBAD BLVD, CARLSBAD, CA, 92008",
+    "side": "L",
+    "tiger_line_id": "195290395"
+  },
+  "321 COAST BLVD LA JOLLA CA 92037-4628": {
+    "lat": 32.841065882999,
+    "lon": -117.281271967473,
+    "matched_address": "321 COAST BLVD, LA JOLLA, CA, 92037",
+    "side": "R",
+    "tiger_line_id": "195683115"
+  },
+  "32118 RANCH RD HOMELAND 92548, Ranch Rd Homeland CA 92548.0": {
+    "lat": 33.746800224422,
+    "lon": -117.100696783723,
+    "matched_address": "32118 RANCH RD, HOMELAND, CA, 92548",
+    "side": "L",
+    "tiger_line_id": "194793987"
+  },
+  "32200 CATHEDRAL CANYON DR CATHEDRAL CITY 92234, Cathedral Canyon Dr Cathedral City CA 92234.0": {
+    "lat": 33.814269580388,
+    "lon": -116.466784841041,
+    "matched_address": "32200 CATHEDRAL CANYON DR, CATHEDRAL CITY, CA, 92234",
+    "side": "L",
+    "tiger_line_id": "194765568"
+  },
+  "3231 MILL RIDGE DR HEMET 92545, Mill Ridge Dr Hemet CA 92545.0": {
+    "lat": 33.722597356746,
+    "lon": -117.005536147914,
+    "matched_address": "3231 MILL RIDGE DR, HEMET, CA, 92545",
+    "side": "R",
+    "tiger_line_id": "618340404"
+  },
+  "32361 SAN MIQUELITO DR THOUSAND PALMS 92276, San Miquelito Dr Thousand Palms CA 92276.0": {
+    "lat": 33.813360767089,
+    "lon": -116.383470143382,
+    "matched_address": "32361 SAN MIGUELITO DR, THOUSAND PALMS, CA, 92276",
+    "side": "R",
+    "tiger_line_id": "194815231"
+  },
+  "32456 LILAC RD VALLEY CENTER CA 92082-4317": {
+    "lat": 33.299536110217,
+    "lon": -117.08487173815,
+    "matched_address": "32456 LILAC RD, VALLEY CENTER, CA, 92082",
+    "side": "R",
+    "tiger_line_id": "195307788"
+  },
+  "32790 FLAGSTAFF AVE THOUSAND PALMS 92276, Flagstaff Ave Thousand Palms CA 92276.0": {
+    "lat": 33.810648653261,
+    "lon": -116.384981296125,
+    "matched_address": "32790 FLAGSTAFF AVE, THOUSAND PALMS, CA, 92276",
+    "side": "R",
+    "tiger_line_id": "194766425"
+  },
+  "32810 ST ANDREWS DR THOUSAND PALMS 92276, St Andrews Dr Thousand Palms CA 92276.0": {
+    "lat": 33.810659803114,
+    "lon": -116.384270875426,
+    "matched_address": "32810 SAINT ANDREWS DR, THOUSAND PALMS, CA, 92276",
+    "side": "R",
+    "tiger_line_id": "194815228"
+  },
+  "32925 PENNY LN HEMET 92545, Penny Ln Hemet CA 92545.0": {},
+  "33061 WESTCHESTER DR THOUSAND PALMS 92276, Westchester Dr Thousand Palms CA 92276.0": {
+    "lat": 33.808396934363,
+    "lon": -116.387531424611,
+    "matched_address": "33061 WESTCHESTER DR, THOUSAND PALMS, CA, 92276",
+    "side": "L",
+    "tiger_line_id": "194766448"
+  },
+  "33121 WESTCHESTER DR THOUSAND PALMS 92276, Westchester Dr Thousand Palms CA 92276.0": {
+    "lat": 33.808121870692,
+    "lon": -116.387132127469,
+    "matched_address": "33121 WESTCHESTER DR, THOUSAND PALMS, CA, 92276",
+    "side": "L",
+    "tiger_line_id": "194766448"
+  },
+  "3322 YBARRA RD SPRING VALLEY CA 91978-1114": {
+    "lat": 32.738625207033,
+    "lon": -116.964124834204,
+    "matched_address": "3322 YBARRA RD, SPRING VALLEY, CA, 91978",
+    "side": "L",
+    "tiger_line_id": "195363200"
+  },
+  "33405 OLD HIGHWAY 74 HEMET 92545, Hemet CA 92545.0": {},
+  "33408 SKYLARK DR LAKE ELSINORE 92530, Skylark Dr Lake Elsinore CA 92530.0": {
+    "lat": 33.615929362213,
+    "lon": -117.316209307774,
+    "matched_address": "33408 SKYLARK DR, LAKE ELSINORE, CA, 92530",
+    "side": "L",
+    "tiger_line_id": "194849800"
+  },
+  "33415 FURROW CT WILDOMAR 92595, Furrow Ct Wildomar CA 92595.0": {
+    "lat": 33.635022663687,
+    "lon": -117.22668504074,
+    "matched_address": "33415 FURROW CT, WILDOMAR, CA, 92595",
+    "side": "R",
+    "tiger_line_id": "194795783"
+  },
+  "33521 WESTCHESTER DR THOUSAND PALMS 92276, Westchester Dr Thousand Palms CA 92276.0": {
+    "lat": 33.806272536246,
+    "lon": -116.384003439087,
+    "matched_address": "33521 WESTCHESTER DR, THOUSAND PALMS, CA, 92276",
+    "side": "L",
+    "tiger_line_id": "194766462"
+  },
+  "3365 SUGAR MAPLE CT HEMET 92545, Sugar Maple Ct Hemet CA 92545.0": {
+    "lat": 33.762306621178,
+    "lon": -117.007627565866,
+    "matched_address": "3365 SUGAR MAPLE CT, HEMET, CA, 92545",
+    "side": "R",
+    "tiger_line_id": "609001014"
+  },
+  "33711 PATTON AVE WINCHESTER 92596, Patton Ave Winchester CA 92596.0": {
+    "lat": 33.692566616308,
+    "lon": -117.075658314108,
+    "matched_address": "33711 PATTON AVE, WINCHESTER, CA, 92596",
+    "side": "R",
+    "tiger_line_id": "194831405"
+  },
+  "340 ADOBE ST BLYTHE 92225, Adobe St Blythe CA 92225.0": {
+    "lat": 33.601758765999,
+    "lon": -114.594173635587,
+    "matched_address": "340 ADOBE ST, BLYTHE, CA, 92225",
+    "side": "L",
+    "tiger_line_id": "195069965"
+  },
+  "341 S 2ND ST BLYTHE 92225, St Blythe CA 92225.0": {
+    "lat": 33.605938616866,
+    "lon": -114.594514191786,
+    "matched_address": "341 S SECOND ST, BLYTHE, CA, 92225",
+    "side": "L",
+    "tiger_line_id": "194811385"
+  },
+  "34514 SIMPSON RD HEMET 92545, Simpson Rd Hemet CA 92545.0": {},
+  "34530 OLIVE AVE WINCHESTER 92596, Olive Ave Winchester CA 92596.0": {
+    "lat": 33.70025233891,
+    "lon": -117.055746968832,
+    "matched_address": "34530 OLIVE AVE, WINCHESTER, CA, 92596",
+    "side": "L",
+    "tiger_line_id": "194754861"
+  },
+  "34954 STADLER ST BEAUMONT 92223, Stadler St Beaumont CA 92223.0": {
+    "lat": 33.961757022803,
+    "lon": -117.051230989262,
+    "matched_address": "34954 STADLER ST, BEAUMONT, CA, 92223",
+    "side": "L",
+    "tiger_line_id": "629829888"
+  },
+  "350 W 5TH ST PERRIS 92570, St Perris CA 92570.0": {
+    "lat": 33.781372413828,
+    "lon": -117.233537334262,
+    "matched_address": "350 W 5TH ST, PERRIS, CA, 92570",
+    "side": "L",
+    "tiger_line_id": "194728173"
+  },
+  "3519 VAN DYKE AVE #02 SAN DIEGO CA 92105-3470": {
+    "lat": 32.742536733881,
+    "lon": -117.103244358348,
+    "matched_address": "3519 VAN DYKE AVE, SAN DIEGO, CA, 92105",
+    "side": "R",
+    "tiger_line_id": "195347027"
+  },
+  "35431 SADDLE HILL RD LAKE ELSINORE 92532, Saddle Hill Rd Lake Elsinore CA 92532.0": {
+    "lat": 33.667276890792,
+    "lon": -117.245989315046,
+    "matched_address": "35431 SADDLE HILL RD, LAKE ELSINORE, CA, 92532",
+    "side": "L",
+    "tiger_line_id": "617966641"
+  },
+  "3558 MT ABBEY AVE SAN DIEGO CA 92111-4529": {
+    "lat": 32.805988386191,
+    "lon": -117.182483652146,
+    "matched_address": "3558 MOUNT ABBEY AVE, SAN DIEGO, CA, 92111",
+    "side": "L",
+    "tiger_line_id": "195689483"
+  },
+  "356 W 3RD ST PERRIS 92570, St Perris CA 92570.0": {
+    "lat": 33.783460413596,
+    "lon": -117.233692729649,
+    "matched_address": "356 W 3RD ST, PERRIS, CA, 92570",
+    "side": "L",
+    "tiger_line_id": "194728108"
+  },
+  "361 REDCREST DR SAN DIEGO CA 92114-4923": {
+    "lat": 32.708187296126,
+    "lon": -117.027630076621,
+    "matched_address": "361 REDCREST DR, SAN DIEGO, CA, 92114",
+    "side": "R",
+    "tiger_line_id": "195361118"
+  },
+  "36461 MELODY LN HEMET 92544, Melody Ln Hemet CA 92544.0": {
+    "lat": 33.599175554314,
+    "lon": -116.893146217126,
+    "matched_address": "36461 MELODY LN, HEMET, CA, 92544",
+    "side": "L",
+    "tiger_line_id": "195084926"
+  },
+  "37043 FERBER DR RANCHO MIRAGE 92270, Ferber Dr Rancho Mirage CA 92270.0": {
+    "lat": 33.779285883871,
+    "lon": -116.436023255217,
+    "matched_address": "37043 FERBER DR, RANCHO MIRAGE, CA, 92270",
+    "side": "L",
+    "tiger_line_id": "194767924"
+  },
+  "37253 TUCANA PL MURRIETA 92563, Tucana Pl Murrieta CA 92563.0": {
+    "lat": 33.579237673821,
+    "lon": -117.136829520211,
+    "matched_address": "37253 TUCANA PL, MURRIETA, CA, 92563",
+    "side": "R",
+    "tiger_line_id": "658301923"
+  },
+  "38192 ROCK CIR PALM DESERT 92260, Rock Cir Palm Desert CA 92260.0": {
+    "lat": 33.771139524555,
+    "lon": -116.380058397982,
+    "matched_address": "38192 ROCK CIR, PALM DESERT, CA, 92260",
+    "side": "R",
+    "tiger_line_id": "194768915"
+  },
+  "39244 ONE HORSE WAY PALM DESERT 92260, One Horse Way Palm Desert CA 92260.0": {
+    "lat": 33.763275334337,
+    "lon": -116.377015639735,
+    "matched_address": "39244 ONE HORSE WAY, PALM DESERT, CA, 92260",
+    "side": "R",
+    "tiger_line_id": "194770212"
+  },
+  "39405 DUSTY TR HEMET 92544, Dusty Tr Hemet CA 92544.0": {
+    "lat": 33.550509402556,
+    "lon": -116.867818469937,
+    "matched_address": "39405 DUSTY TRL, HEMET, CA, 92544",
+    "side": "L",
+    "tiger_line_id": "195048954"
+  },
+  "3963 PASEO DEL MAR DR PERRIS 92571, Paseo Del Mar Dr Perris CA 92571.0": {
+    "lat": 33.84005396461,
+    "lon": -117.18979577592,
+    "matched_address": "3963 PASEO DEL MAR DR, PERRIS, CA, 92571",
+    "side": "L",
+    "tiger_line_id": "195090033"
+  },
+  "39886 BERENDA RD TEMECULA 92591, Berenda Rd Temecula CA 92591.0": {
+    "lat": 33.543986754513,
+    "lon": -117.055525841603,
+    "matched_address": "39886 BERENDA RD, TEMECULA, CA, 92591",
+    "side": "R",
+    "tiger_line_id": "608999571"
+  },
+  "4048 BRIGGS ST RIVERSIDE 92509, Briggs St Riverside CA 92509.0": {
+    "lat": 33.995797473979,
+    "lon": -117.411530123411,
+    "matched_address": "4048 BRIGGS ST, RIVERSIDE, CA, 92509",
+    "side": "L",
+    "tiger_line_id": "194739214"
+  },
+  "4075 ROSENDA CT #278 SAN DIEGO CA 92122-1963": {
+    "lat": 32.854666499322,
+    "lon": -117.229993061383,
+    "matched_address": "4075 ROSENDA CT, SAN DIEGO, CA, 92122",
+    "side": "L",
+    "tiger_line_id": "195374419"
+  },
+  "41680 EL CAMPO RD ANZA 92539, El Campo Rd Anza CA 92539.0": {
+    "lat": 33.51649835864,
+    "lon": -116.612446912651,
+    "matched_address": "41680 EL CAMPO RD, ANZA, CA, 92539",
+    "side": "R",
+    "tiger_line_id": "195056139"
+  },
+  "41934 3RD ST TEMECULA 92590, St Temecula CA 92590.0": {
+    "lat": 33.493254890606,
+    "lon": -117.147177638274,
+    "matched_address": "41934 3RD ST, TEMECULA, CA, 92590",
+    "side": "R",
+    "tiger_line_id": "194782197"
+  },
+  "41956 3RD ST TEMECULA 92590, St Temecula CA 92590.0": {
+    "lat": 33.493069926085,
+    "lon": -117.147398054344,
+    "matched_address": "41956 3RD ST, TEMECULA, CA, 92590",
+    "side": "R",
+    "tiger_line_id": "194782197"
+  },
+  "4208 NAPIER ST SAN DIEGO CA 92110-3443": {
+    "lat": 32.78232330217,
+    "lon": -117.205826390086,
+    "matched_address": "4208 NAPIER ST, SAN DIEGO, CA, 92110",
+    "side": "L",
+    "tiger_line_id": "195304125"
+  },
+  "4211 SUMMIT DR LA MESA CA 91941-7841": {
+    "lat": 32.7578275549,
+    "lon": -117.022575101771,
+    "matched_address": "4211 SUMMIT DR, LA MESA, CA, 91941",
+    "side": "R",
+    "tiger_line_id": "612892907"
+  },
+  "42185 OAK CANYON DR HEMET 92544, Oak Canyon Dr Hemet CA 92544.0": {},
+  "422 E 6TH ST NATIONAL CITY CA 91950-2318": {
+    "lat": 32.678834968529,
+    "lon": -117.102797305171,
+    "matched_address": "422 E 6TH ST, NATIONAL CITY, CA, 91950",
+    "side": "R",
+    "tiger_line_id": "612872892"
+  },
+  "425 W BEECH ST #534 SAN DIEGO CA 92101-2959": {
+    "lat": 32.720850943124,
+    "lon": -117.166744354079,
+    "matched_address": "425 W BEECH ST, SAN DIEGO, CA, 92101",
+    "side": "L",
+    "tiger_line_id": "195343379"
+  },
+  "42941 WILSON VALLEY RD AGUANGA 92536, Wilson Valley Rd Aguanga CA 92536.0": {
+    "lat": 33.501582834398,
+    "lon": -116.855280827442,
+    "matched_address": "42941 WILSON VALLEY RD, AGUANGA, CA, 92536",
+    "side": "L",
+    "tiger_line_id": "194696880"
+  },
+  "4343 N TALMADGE DR SAN DIEGO CA 92116-2526": {
+    "lat": 32.763843599509,
+    "lon": -117.100509091901,
+    "matched_address": "4343 N TALMADGE DR, SAN DIEGO, CA, 92116",
+    "side": "R",
+    "tiger_line_id": "195346915"
+  },
+  "43701 PIONEER AVE HEMET 92544, Pioneer Ave Hemet CA 92544.0": {
+    "lat": 33.741233102136,
+    "lon": -116.898162380458,
+    "matched_address": "43701 PIONEER AVE, HEMET, CA, 92544",
+    "side": "R",
+    "tiger_line_id": "194758823"
+  },
+  "43925 ANDRA CIR INDIO 92201, Andra Cir Indio CA 92201.0": {
+    "lat": 33.729971711443,
+    "lon": -116.245782206827,
+    "matched_address": "43925 ANDRA CIR, INDIO, CA, 92201",
+    "side": "R",
+    "tiger_line_id": "194773400"
+  },
+  "44215 OAK GLEN RD HEMET 92544, Oak Glen Rd Hemet CA 92544.0": {
+    "lat": 33.62249238627,
+    "lon": -116.891618035669,
+    "matched_address": "44215 OAK GLEN RD, HEMET, CA, 92544",
+    "side": "L",
+    "tiger_line_id": "195084923"
+  },
+  "4445 CANTERBURY RD RIVERSIDE 92504, Canterbury Rd Riverside CA 92504.0": {
+    "lat": 33.944771707021,
+    "lon": -117.429026350551,
+    "matched_address": "4445 CANTERBURY RD, RIVERSIDE, CA, 92504",
+    "side": "R",
+    "tiger_line_id": "194740023"
+  },
+  "44530 LEWIS VALLEY RD HEMET 92543, Lewis Valley Rd Hemet CA 92543.0": {
+    "lat": 33.560083660105,
+    "lon": -116.885689168483,
+    "matched_address": "44530 LEWIS VALLEY RD, HEMET, CA, 92544",
+    "side": "L",
+    "tiger_line_id": "639964002"
+  },
+  "45149 GOODLETT RD AGUANGA 92536, Goodlett Rd Aguanga CA 92536.0": {
+    "lat": 33.510830781402,
+    "lon": -116.872886416464,
+    "matched_address": "45149 GOODLETT RD, AGUANGA, CA, 92536",
+    "side": "L",
+    "tiger_line_id": "194696548"
+  },
+  "45610 BIG HORN ST BANNING 92220, Big Horn St Banning CA 92220.0": {},
+  "45854 CORTE MISLANCA TEMECULA 92592, Corte Mislanca Temecula CA 92592.0": {
+    "lat": 33.461572755711,
+    "lon": -117.084483511218,
+    "matched_address": "45854 CORTE MISLANCA, TEMECULA, CA, 92592",
+    "side": "L",
+    "tiger_line_id": "640320876"
+  },
+  "46366 SANDIA CREEK DR TEMECULA 92590, Sandia Creek Dr Temecula CA 92590.0": {
+    "lat": 33.47211752296,
+    "lon": -117.227906212203,
+    "matched_address": "46366 SANDIA CREEK DR, TEMECULA, CA, 92590",
+    "side": "L",
+    "tiger_line_id": "194782273"
+  },
+  "4767 OCEAN BLVD #107 SAN DIEGO CA 92109-2478": {},
+  "48151 BIRDIE WAY PALM DESERT 92260, Birdie Way Palm Desert CA 92260.0": {
+    "lat": 33.698449653751,
+    "lon": -116.379110241368,
+    "matched_address": "48151 BIRDIE WAY, PALM DESERT, CA, 92260",
+    "side": "R",
+    "tiger_line_id": "194770133"
+  },
+  "4825 MAGNUS WAY SAN DIEGO CA 92113-3515": {
+    "lat": 32.692278923028,
+    "lon": -117.090773811022,
+    "matched_address": "4825 MAGNUS WAY, SAN DIEGO, CA, 92113",
+    "side": "R",
+    "tiger_line_id": "195352008"
+  },
+  "4850 JENNIFER CT SAN DIEGO CA 92117-1809": {
+    "lat": 32.833174155064,
+    "lon": -117.209726959138,
+    "matched_address": "4850 JENNIFER CT, SAN DIEGO, CA, 92117",
+    "side": "L",
+    "tiger_line_id": "195302578"
+  },
+  "48908 FOXTAIL LN PALM DESERT 92260, Foxtail Ln Palm Desert CA 92260.0": {
+    "lat": 33.692347780846,
+    "lon": -116.380938410151,
+    "matched_address": "48908 FOXTAIL LN, PALM DESERT, CA, 92260",
+    "side": "L",
+    "tiger_line_id": "194770170"
+  },
+  "49055 TAYLOR ST INDIO 92201, Taylor St Indio CA 92201.0": {
+    "lat": 33.692210083346,
+    "lon": -116.228640733123,
+    "matched_address": "49055 TAYLOR ST, INDIO, CA, 92201",
+    "side": "R",
+    "tiger_line_id": "194774097"
+  },
+  "49300 DALE CT CABAZON 92230, Dale Ct Cabazon CA 92230.0": {
+    "lat": 33.909961491325,
+    "lon": -116.801317225208,
+    "matched_address": "49300 DALE CT, CABAZON, CA, 92230",
+    "side": "L",
+    "tiger_line_id": "194689137"
+  },
+  "49305 DALE CT CABAZON 92230, Dale Ct Cabazon CA 92230.0": {
+    "lat": 33.909845463024,
+    "lon": -116.80128541399,
+    "matched_address": "49305 DALE CT, CABAZON, CA, 92230",
+    "side": "R",
+    "tiger_line_id": "194689137"
+  },
+  "4966 NAPLES PL SAN DIEGO CA 92110-3816": {
+    "lat": 32.770298653528,
+    "lon": -117.203384130477,
+    "matched_address": "4966 NAPLES PL, SAN DIEGO, CA, 92110",
+    "side": "L",
+    "tiger_line_id": "195304368"
+  },
+  "500 E ST SAN DIEGO CA 92101-6206": {
+    "lat": 32.714710534912,
+    "lon": -117.160084001305,
+    "matched_address": "500 E ST, SAN DIEGO, CA, 92101",
+    "side": "L",
+    "tiger_line_id": "195344452"
+  },
+  "500 W BARNARD ST BLYTHE 92225, W Barnard St Blythe CA 92225.0": {
+    "lat": 33.613884699366,
+    "lon": -114.601997290794,
+    "matched_address": "500 W BARNARD ST, BLYTHE, CA, 92225",
+    "side": "R",
+    "tiger_line_id": "608979047"
+  },
+  "500-524 E ST SAN DIEGO CA 92101": {
+    "lat": 32.714710534903,
+    "lon": -117.159896869478,
+    "matched_address": "524 E ST, SAN DIEGO, CA, 92101",
+    "side": "L",
+    "tiger_line_id": "195344452"
+  },
+  "500-524 E ST SAN DIEGO CA 92101-6206": {
+    "lat": 32.714710534903,
+    "lon": -117.159896869478,
+    "matched_address": "524 E ST, SAN DIEGO, CA, 92101",
+    "side": "L",
+    "tiger_line_id": "195344452"
+  },
+  "50067 CALLE OAXACA LA QUINTA 92253, Calle Oaxaca La Quinta CA 92253.0": {
+    "lat": 33.684046963426,
+    "lon": -116.310878717205,
+    "matched_address": "50067 CLL OAXACA, LA QUINTA, CA, 92253",
+    "side": "L",
+    "tiger_line_id": "194774222"
+  },
+  "50410 JALISCO AVE COACHELLA 92236, Jalisco Ave Coachella CA 92236.0": {
+    "lat": 33.682423314971,
+    "lon": -116.190964523041,
+    "matched_address": "50410 JALISCO AVE, COACHELLA, CA, 92236",
+    "side": "L",
+    "tiger_line_id": "655808741"
+  },
+  "510 N VILLA CT PALM SPRINGS 92262, N Villa Ct Palm Springs CA 92262.0": {
+    "lat": 33.858812040431,
+    "lon": -116.552620142705,
+    "matched_address": "510 N VILLA CT, PALM SPRINGS, CA, 92262",
+    "side": "L",
+    "tiger_line_id": "195049085"
+  },
+  "51453 BONITA AVE CABAZON 92230, Bonita Ave Cabazon CA 92230.0": {
+    "lat": 33.914315287669,
+    "lon": -116.763626874739,
+    "matched_address": "51453 BONITA AVE, CABAZON, CA, 92230",
+    "side": "L",
+    "tiger_line_id": "194689697"
+  },
+  "5150 ETIWANDA AVE MIRA LOMA 91752, Etiwanda Ave Mira Loma CA 91752.0": {
+    "lat": 33.993633891334,
+    "lon": -117.523282332094,
+    "matched_address": "5150 ETIWANDA AVE, MIRA LOMA, CA, 91752",
+    "side": "L",
+    "tiger_line_id": "194735014"
+  },
+  "51757 LA HERNANDEZ ST COACHELLA 92236, La Hernandez St Coachella CA 92236.0": {
+    "lat": 33.674744952555,
+    "lon": -116.154094560948,
+    "matched_address": "51757 HERNANDEZ ST, COACHELLA, CA, 92236",
+    "side": "R",
+    "tiger_line_id": "195045359"
+  },
+  "51860 ESPERANZA AVE CABAZON 92230, Esperanza Ave Cabazon CA 92230.0": {
+    "lat": 33.900685373601,
+    "lon": -116.757174022099,
+    "matched_address": "51860 ESPERANZA AVE, CABAZON, CA, 92230",
+    "side": "R",
+    "tiger_line_id": "194689218"
+  },
+  "51910 AVENIDA NAVARRO LA QUINTA 92253, Avenida Navarro La Quinta CA 92253.0": {
+    "lat": 33.671290342104,
+    "lon": -116.304466830583,
+    "matched_address": "51910 AVE NAVARRO, LA QUINTA, CA, 92253",
+    "side": "L",
+    "tiger_line_id": "194774461"
+  },
+  "51977 LOIS AVE CABAZON 92230, Lois Ave Cabazon CA 92230.0": {
+    "lat": 33.901205757488,
+    "lon": -116.754929630475,
+    "matched_address": "51977 LOIS AVE, CABAZON, CA, 92230",
+    "side": "L",
+    "tiger_line_id": "194689212"
+  },
+  "52195 AVENIDA RUBIO LA QUINTA 92253, Avenida Rubio La Quinta CA 92253.0": {
+    "lat": 33.669260054632,
+    "lon": -116.314990519734,
+    "matched_address": "52195 AVE RUBIO, LA QUINTA, CA, 92253",
+    "side": "R",
+    "tiger_line_id": "194774172"
+  },
+  "52285 ESPERANZA AVE CABAZON 92230, Esperanza Ave Cabazon CA 92230.0": {
+    "lat": 33.900579781747,
+    "lon": -116.748729925909,
+    "matched_address": "52285 ESPERANZA AVE, CABAZON, CA, 92230",
+    "side": "R",
+    "tiger_line_id": "194802969"
+  },
+  "52372 CALLE AVILA COACHELLA 92236, Calle Avila Coachella CA 92236.0": {
+    "lat": 33.668580175041,
+    "lon": -116.183947854777,
+    "matched_address": "52372 CLL AVILA, COACHELLA, CA, 92236",
+    "side": "L",
+    "tiger_line_id": "194776472"
+  },
+  "535 RUTH CIR CORONA 92879, Ruth Cir Corona CA 92879.0": {
+    "lat": 33.892686820312,
+    "lon": -117.51681545284,
+    "matched_address": "535 RUTH CIR, CORONA, CA, 92879",
+    "side": "L",
+    "tiger_line_id": "633954156"
+  },
+  "535 S HIGHWAY 101 SOLANA BEACH CA 92075-2211": {
+    "lat": 32.985560578547,
+    "lon": -117.270278755835,
+    "matched_address": "535 HWY 101, SOLANA BEACH, CA, 92075",
+    "side": "R",
+    "tiger_line_id": "195704044"
+  },
+  "5380 ALTA BAHIA CT SAN DIEGO CA 92109-1919": {
+    "lat": 32.813433747623,
+    "lon": -117.249241815338,
+    "matched_address": "5380 ALTA BAHIA CT, SAN DIEGO, CA, 92109",
+    "side": "L",
+    "tiger_line_id": "195299365"
+  },
+  "54164 OAK TREE LA QUINTA 92253, Oak Tree La Quinta CA 92253.0": {},
+  "54240 KALSMAN DR WHITEWATER 92282, Kalsman Dr Whitewater CA 92282.0": {
+    "lat": 33.93186714766,
+    "lon": -116.715645854498,
+    "matched_address": "54240 KALSMAN DR, WHITEWATER, CA, 92282",
+    "side": "L",
+    "tiger_line_id": "194759784"
+  },
+  "5451 COLT LN RIVERSIDE 92509, Colt Ln Riverside CA 92509.0": {
+    "lat": 33.988841492636,
+    "lon": -117.502806304553,
+    "matched_address": "5451 COLT LN, RIVERSIDE, CA, 92509",
+    "side": "R",
+    "tiger_line_id": "194735629"
+  },
+  "550 FRONT ST #902 SAN DIEGO CA 92101-7093": {
+    "lat": 32.710880470691,
+    "lon": -117.164746401701,
+    "matched_address": "550 FRONT ST, SAN DIEGO, CA, 92101",
+    "side": "L",
+    "tiger_line_id": "195344415"
+  },
+  "550 VIA DE LA VALLE #108 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #109 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #111A SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #112C SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #126E SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #128 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #129 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #130 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #142 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #143 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #145 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #148A SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #150 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #151 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #152D SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #153 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #200 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #202 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #204A SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #208 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #210A SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #215 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #221 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #222 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #228 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #229 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #230 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #232 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #240 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #A243 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #A249 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #A251 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #A252 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #A253 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #A43 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #A50 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #A88 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #A92 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #A93 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #A95 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #C250 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #C47 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #D49 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #D96 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "550 VIA DE LA VALLE #E44 SOLANA BEACH CA 92075-2459": {
+    "lat": 32.980208034273,
+    "lon": -117.260245018836,
+    "matched_address": "550 VIA DE LA VALLE, SOLANA BEACH, CA, 92075",
+    "side": "L",
+    "tiger_line_id": "195658658"
+  },
+  "55536 SAN PIERRE RD WHITEWATER 92282, San Pierre Rd Whitewater CA 92282.0": {
+    "lat": 33.932780633574,
+    "lon": -116.694173010843,
+    "matched_address": "55536 SAN PIERRE RD, WHITEWATER, CA, 92282",
+    "side": "L",
+    "tiger_line_id": "195086047"
+  },
+  "559 BARCA CREEK DR PERRIS 92571, Barca Creek Dr Perris CA 92571.0": {
+    "lat": 33.798411819399,
+    "lon": -117.214223752847,
+    "matched_address": "559 BARCA CREEK DR, PERRIS, CA, 92571",
+    "side": "L",
+    "tiger_line_id": "194847553"
+  },
+  "5602 TRAFALGAR RD EL CAJON CA 92019-1638": {
+    "lat": 32.798649535401,
+    "lon": -116.829931001692,
+    "matched_address": "5602 TRAFALGAR RD, EL CAJON, CA, 92019",
+    "side": "L",
+    "tiger_line_id": "195335297"
+  },
+  "569 FLICKER ST SAN DIEGO CA 92114-4426": {
+    "lat": 32.711148867401,
+    "lon": -117.047655130986,
+    "matched_address": "569 FLICKER ST, SAN DIEGO, CA, 92114",
+    "side": "R",
+    "tiger_line_id": "195353319"
+  },
+  "570 EMORY ST #B IMPERIAL BEACH CA 91932-1556": {
+    "lat": 32.586575506043,
+    "lon": -117.113120937092,
+    "matched_address": "570 EMORY ST, IMPERIAL BEACH, CA, 91932",
+    "side": "R",
+    "tiger_line_id": "612867977"
+  },
+  "5700 BALTIMORE DR #220 LA MESA CA 91942-1643": {
+    "lat": 32.78283793153,
+    "lon": -117.033350212201,
+    "matched_address": "5700 BALTIMORE DR, LA MESA, CA, 91942",
+    "side": "L",
+    "tiger_line_id": "195717715"
+  },
+  "575 VILLA CT PALM SPRINGS 92262, Villa Ct Palm Springs CA 92262.0": {},
+  "585 PITCAIRN ST RIVERSIDE 92506, Pitcairn St Riverside CA 92506.0": {
+    "lat": 33.906700158782,
+    "lon": -117.35729282895,
+    "matched_address": "585 PITCAIRN ST, RIVERSIDE, CA, 92506",
+    "side": "L",
+    "tiger_line_id": "618756399"
+  },
+  "58810 80TH AVE ANZA 92539, Ave Anza CA 92539.0": {
+    "lat": 33.470188417899,
+    "lon": -116.63980575836,
+    "matched_address": "58810 80TH AVE, ANZA, CA, 92539",
+    "side": "L",
+    "tiger_line_id": "195076770"
+  },
+  "58890 KAWEEA RD ANZA 92539, Kaweea Rd Anza CA 92539.0": {
+    "lat": 33.549527938369,
+    "lon": -116.631218247886,
+    "matched_address": "58890 KWEEA RD, ANZA, CA, 92539",
+    "side": "R",
+    "tiger_line_id": "635597456"
+  },
+  "59660 RIM ROCK RD ANZA 92539, Rim Rock Rd Anza CA 92539.0": {},
+  "615 ELM ST RAMONA CA 92065-1914": {
+    "lat": 33.053184923285,
+    "lon": -116.861782904559,
+    "matched_address": "615 ELM ST, RAMONA, CA, 92065",
+    "side": "R",
+    "tiger_line_id": "195330525"
+  },
+  "6161 MISSION BLVD RIVERSIDE 92509, Mission Blvd Riverside CA 92509.0": {
+    "lat": 34.004765703253,
+    "lon": -117.422139698369,
+    "matched_address": "6161 MISSION BLVD, RIVERSIDE, CA, 92509",
+    "side": "R",
+    "tiger_line_id": "194733497"
+  },
+  "640 N 6TH ST BLYTHE 92225, St Blythe CA 92225.0": {
+    "lat": 33.620210990799,
+    "lon": -114.589773007798,
+    "matched_address": "640 N 6TH ST, BLYTHE, CA, 92225",
+    "side": "R",
+    "tiger_line_id": "608979168"
+  },
+  "64050 DESERT SANDS RD DESERT HOT SPRINGS 92240, Desert Sands Rd Desert Hot Springs CA 92240.0": {
+    "lat": 33.949163527068,
+    "lon": -116.544589335597,
+    "matched_address": "64050 DESERT SANDS RD, DESERT HOT SPRINGS, CA, 92240",
+    "side": "R",
+    "tiger_line_id": "194722164"
+  },
+  "64210 THOMAS RD DESERT HOT SPRINGS 92240, Thomas Rd Desert Hot Springs CA 92240.0": {},
+  "64220 THOMAS RD DESERT HOT SPRINGS 92240, Thomas Rd Desert Hot Springs CA 92240.0": {},
+  "6450 HOLLYRIDGE DR RIVERSIDE 92504, Hollyridge Dr Riverside CA 92504.0": {
+    "lat": 33.955568174411,
+    "lon": -117.432028654134,
+    "matched_address": "6450 HOLLYRIDGE DR, RIVERSIDE, CA, 92504",
+    "side": "L",
+    "tiger_line_id": "194739109"
+  },
+  "652 KUMQUAT WAY OCEANSIDE CA 92058-1661": {
+    "lat": 33.234677915687,
+    "lon": -117.335705248591,
+    "matched_address": "652 KUMQUAT WAY, OCEANSIDE, CA, 92058",
+    "side": "L",
+    "tiger_line_id": "195750493"
+  },
+  "65775 BUENA VISTA AVE DESERT HOT SPRINGS 92240, Buena Vista Ave Desert Hot Springs CA 92240.0": {
+    "lat": 33.95955676175,
+    "lon": -116.513500152577,
+    "matched_address": "65775 BUENA VISTA AVE, DESERT HOT SPRINGS, CA, 92240",
+    "side": "L",
+    "tiger_line_id": "194721886"
+  },
+  "66055 4TH ST DESERT HOT SPRINGS 92240, St Desert Hot Springs CA 92240.0": {
+    "lat": 33.965056163476,
+    "lon": -116.509163008849,
+    "matched_address": "66055 4TH ST, DESERT HOT SPRINGS, CA, 92240",
+    "side": "R",
+    "tiger_line_id": "194721766"
+  },
+  "66068 SAN JOSE RD DESERT HOT SPRINGS 92240, San Jose Rd Desert Hot Springs CA 92240.0": {
+    "lat": 33.971407351515,
+    "lon": -116.509231682538,
+    "matched_address": "66068 SAN JOSE RD, DESERT HOT SPRINGS, CA, 92240",
+    "side": "L",
+    "tiger_line_id": "194721671"
+  },
+  "66634 5TH ST DESERT HOT SPRINGS 92240, St Desert Hot Springs CA 92240.0": {
+    "lat": 33.966097351618,
+    "lon": -116.499857881161,
+    "matched_address": "66634 5TH ST, DESERT HOT SPRINGS, CA, 92240",
+    "side": "R",
+    "tiger_line_id": "194811850"
+  },
+  "66659 6TH ST DESERT HOT SPRINGS 92240, St Desert Hot Springs CA 92240.0": {
+    "lat": 33.966953160828,
+    "lon": -116.49873081984,
+    "matched_address": "66659 6TH ST, DESERT HOT SPRINGS, CA, 92240",
+    "side": "R",
+    "tiger_line_id": "194690663"
+  },
+  "66700 5TH ST DESERT HOT SPRINGS 92240, St Desert Hot Springs CA 92240.0": {},
+  "6757 WESTERN AVE RIVERSIDE 92505, Western Ave Riverside CA 92505.0": {
+    "lat": 33.950733253204,
+    "lon": -117.501282155344,
+    "matched_address": "6757 WESTERN AVE, RIVERSIDE, CA, 92505",
+    "side": "R",
+    "tiger_line_id": "194735864"
+  },
+  "6855 RADIO DR SAN DIEGO CA 92114-1611": {
+    "lat": 32.728506533975,
+    "lon": -117.05057678023,
+    "matched_address": "6855 RADIO DR, SAN DIEGO, CA, 92114",
+    "side": "R",
+    "tiger_line_id": "195372699"
+  },
+  "6924 HYDE PARK DR #319 SAN DIEGO CA 92119-2263": {
+    "lat": 32.801460828324,
+    "lon": -117.046543994362,
+    "matched_address": "6924 HYDE PARK DR, SAN DIEGO, CA, 92119",
+    "side": "L",
+    "tiger_line_id": "645485470"
+  },
+  "69411 RAMON RD CATHEDRAL CITY 92234, Ramon Rd Cathedral City CA 92234.0": {
+    "lat": 33.815898775073,
+    "lon": -116.447909198506,
+    "matched_address": "69411 RAMON RD, CATHEDRAL CITY, CA, 92234",
+    "side": "R",
+    "tiger_line_id": "195044733"
+  },
+  "695 CASITA LN SAN MARCOS CA 92069-8319": {
+    "lat": 33.159309535646,
+    "lon": -117.19349504775,
+    "matched_address": "695 CASITA LN, SAN MARCOS, CA, 92069",
+    "side": "R",
+    "tiger_line_id": "195762337"
+  },
+  "69907 AVERILL DR MTN CENTER 92561, Averill Dr Mtn Center CA 92561.0": {},
+  "7210 BLUE HERON PL CARLSBAD CA 92011-4911": {
+    "lat": 33.097287510679,
+    "lon": -117.284779435073,
+    "matched_address": "7210 BLUE HERON PL, CARLSBAD, CA, 92011",
+    "side": "L",
+    "tiger_line_id": "195450643"
+  },
+  "72650 FRED WARING DR PALM DESERT 92260, Fred Waring Dr Palm Desert CA 92260.0": {
+    "lat": 33.728715331304,
+    "lon": -116.397603973468,
+    "matched_address": "72650 FRED WARING DR, PALM DESERT, CA, 92260",
+    "side": "L",
+    "tiger_line_id": "194769350"
+  },
+  "73123 ALICE MARBLE LN PALM DESERT 92260, Alice Marble Ln Palm Desert CA 92260.0": {
+    "lat": 33.707327971291,
+    "lon": -116.389286110234,
+    "matched_address": "73123 ALICE MARBLE LN, PALM DESERT, CA, 92260",
+    "side": "R",
+    "tiger_line_id": "655811290"
+  },
+  "73170 RAMON RD THOUSAND PALMS 92276, Ramon Rd Thousand Palms CA 92276.0": {
+    "lat": 33.816491841612,
+    "lon": -116.384645908052,
+    "matched_address": "73170 RAMON RD, THOUSAND PALMS, CA, 92276",
+    "side": "L",
+    "tiger_line_id": "638579747"
+  },
+  "7318 CRYSTAL VIEW TERR RIVERSIDE 92506, Crystal View Terr Riverside CA 92506.0": {
+    "lat": 33.918286666096,
+    "lon": -117.349051240551,
+    "matched_address": "7318 CRYSTAL VIEW TER, RIVERSIDE, CA, 92506",
+    "side": "R",
+    "tiger_line_id": "631011557"
+  },
+  "73200 DILLON RD DSRT HOT SPG 92241, Dillon Rd Dsrt Hot Spg CA 92241.0": {
+    "lat": 33.916319961523,
+    "lon": -116.386247857589,
+    "matched_address": "73200 DILLON RD, DSRT HOT SPGS, CA, 92241",
+    "side": "R",
+    "tiger_line_id": "195061175"
+  },
+  "73203 18TH AVE DSRT HOT SPG 92241, Ave Dsrt Hot Spg CA 92241.0": {
+    "lat": 33.918260626806,
+    "lon": -116.385564826131,
+    "matched_address": "73203 18TH AVE, DSRT HOT SPGS, CA, 92241",
+    "side": "L",
+    "tiger_line_id": "658301364"
+  },
+  "73400 PINE VALLEY DR THOUSAND PALMS 92276, Pine Valley Dr Thousand Palms CA 92276.0": {
+    "lat": 33.814745058934,
+    "lon": -116.380930066807,
+    "matched_address": "73400 PINE VALLEY DR, THOUSAND PALMS, CA, 92276",
+    "side": "L",
+    "tiger_line_id": "194766484"
+  },
+  "73520 ARMAND WAY THOUSAND PALMS 92276, Armand Way Thousand Palms CA 92276.0": {},
+  "73850 FAIRWAY DR PALM DESERT 92260, Fairway Dr Palm Desert CA 92260.0": {},
+  "743 ROSA PARKS RD PALM SPRINGS 92262, Rosa Parks Rd Palm Springs CA 92262.0": {},
+  "7550 WILDLIFE RD CORONA 92881, Wildlife Rd Corona CA 92881.0": {
+    "lat": 33.849253695624,
+    "lon": -117.526411655369,
+    "matched_address": "7550 WILDLIFE RD, CORONA, CA, 92881",
+    "side": "L",
+    "tiger_line_id": "638576934"
+  },
+  "77431 MICHIGAN DR PALM DESERT 92211, Michigan Dr Palm Desert CA 92211.0": {
+    "lat": 33.743083923816,
+    "lon": -116.313539773543,
+    "matched_address": "77431 MICHIGAN DR, PALM DESERT, CA, 92211",
+    "side": "R",
+    "tiger_line_id": "194772147"
+  },
+  "782 VIA CASITAS DR HEMET 92545, Via Casitas Dr Hemet CA 92545.0": {
+    "lat": 33.760144813018,
+    "lon": -117.003292947573,
+    "matched_address": "782 VIA CASITAS DR, HEMET, CA, 92545",
+    "side": "L",
+    "tiger_line_id": "609002770"
+  },
+  "783 ACACIA ST LAKE ELSINORE 92530, Acacia St Lake Elsinore CA 92530.0": {
+    "lat": 33.664382146495,
+    "lon": -117.316518367292,
+    "matched_address": "783 ACACIA ST, LAKE ELSINORE, CA, 92530",
+    "side": "L",
+    "tiger_line_id": "194707841"
+  },
+  "78650 AVENUE 42 INDIO 92203, Indio CA 92203.0": {
+    "lat": 33.743780909339,
+    "lon": -116.291733094833,
+    "matched_address": "78650 AVE 42, INDIO, CA, 92203",
+    "side": "L",
+    "tiger_line_id": "194772285"
+  },
+  "79160 SHADOW TR LA QUINTA 92253, Shadow Tr La Quinta CA 92253.0": {
+    "lat": 33.700826204285,
+    "lon": -116.282823300748,
+    "matched_address": "79160 SHADOW TRL, LA QUINTA, CA, 92253",
+    "side": "L",
+    "tiger_line_id": "655811502"
+  },
+  "79435 N SUNRISE RIDGE DR LA QUINTA 92253, N Sunrise Ridge Dr La Quinta CA 92253.0": {
+    "lat": 33.727841690331,
+    "lon": -116.278884475294,
+    "matched_address": "79435 N SUNRISE RIDGE DR, LA QUINTA, CA, 92253",
+    "side": "R",
+    "tiger_line_id": "195042845"
+  },
+  "7959 CAMINITO DIA #02 SAN DIEGO CA 92122-1607": {
+    "lat": 32.862679937411,
+    "lon": -117.221970829864,
+    "matched_address": "7959 CMT DIA, SAN DIEGO, CA, 92122",
+    "side": "R",
+    "tiger_line_id": "195301900"
+  },
+  "80551 LIBERIA PL INDIO 92201, Liberia Pl Indio CA 92201.0": {
+    "lat": 33.732882774598,
+    "lon": -116.259488341892,
+    "matched_address": "80551 LIBERIA PL, INDIO, CA, 92201",
+    "side": "R",
+    "tiger_line_id": "194773169"
+  },
+  "815 TANGIERS CT SAN DIEGO CA 92109-7031": {
+    "lat": 32.786020295052,
+    "lon": -117.25328287523,
+    "matched_address": "815 TANGIERS CT, SAN DIEGO, CA, 92109",
+    "side": "R",
+    "tiger_line_id": "195299721"
+  },
+  "8271 SUMMIT PASS DESERT HOT SPRINGS 92240, Summit Pass Desert Hot Springs CA 92240.0": {
+    "lat": 33.98847619333,
+    "lon": -116.525302991192,
+    "matched_address": "8271 SUMMIT PASS, DESERT HOT SPRINGS, CA, 92240",
+    "side": "L",
+    "tiger_line_id": "623928395"
+  },
+  "8272 SUMMIT PASS DESERT HOT SPRINGS 92240, Summit Pass Desert Hot Springs CA 92240.0": {
+    "lat": 33.988541514767,
+    "lon": -116.524986144509,
+    "matched_address": "8272 SUMMIT PASS, DESERT HOT SPRINGS, CA, 92240",
+    "side": "R",
+    "tiger_line_id": "623928395"
+  },
+  "8283 SUMMIT PASS DESERT HOT SPRINGS 92240, Summit Pass Desert Hot Springs CA 92240.0": {
+    "lat": 33.988433464535,
+    "lon": -116.525368776837,
+    "matched_address": "8283 SUMMIT PASS, DESERT HOT SPRINGS, CA, 92240",
+    "side": "L",
+    "tiger_line_id": "623928395"
+  },
+  "8290 HELLMAN AVE EASTVALE 92880, Hellman Ave Eastvale CA 92880.0": {
+    "lat": 33.936886929686,
+    "lon": -117.61085236924,
+    "matched_address": "8290 HELLMAN AVE, EASTVALE, CA, 92880",
+    "side": "L",
+    "tiger_line_id": "651104112"
+  },
+  "8305 MEADOWS WAY DESERT HOT SPRINGS 92240, Meadows Way Desert Hot Springs CA 92240.0": {
+    "lat": 33.988147245506,
+    "lon": -116.524458128155,
+    "matched_address": "8305 MEADOWS WAY, DESERT HOT SPRINGS, CA, 92240",
+    "side": "R",
+    "tiger_line_id": "624044652"
+  },
+  "83105 ALVARADO AVE THERMAL 92274, Alvarado Ave Thermal CA 92274.0": {
+    "lat": 33.64540278264,
+    "lon": -116.215055139848,
+    "matched_address": "83105 ALVARADO AVE, THERMAL, CA, 92274",
+    "side": "R",
+    "tiger_line_id": "194776198"
+  },
+  "8328 MEADOWS WAY DESERT HOT SPRINGS 92240, Meadows Way Desert Hot Springs CA 92240.0": {
+    "lat": 33.987999759685,
+    "lon": -116.524455336911,
+    "matched_address": "8328 MEADOWS WAY, DESERT HOT SPRINGS, CA, 92240",
+    "side": "L",
+    "tiger_line_id": "624044652"
+  },
+  "8332 CASE ST LA MESA CA 91942-2919": {
+    "lat": 32.774083520691,
+    "lon": -117.019908477611,
+    "matched_address": "8332 CASE ST, LA MESA, CA, 91942",
+    "side": "L",
+    "tiger_line_id": "195325869"
+  },
+  "8337 MEADOWS WAY DESERT HOT SPRINGS 92240, Meadows Way Desert Hot Springs CA 92240.0": {
+    "lat": 33.987971422439,
+    "lon": -116.524711520243,
+    "matched_address": "8337 MEADOWS WAY, DESERT HOT SPRINGS, CA, 92240",
+    "side": "R",
+    "tiger_line_id": "624044652"
+  },
+  "8580 AVENIDA DE LA FUENTE SAN DIEGO CA 92154-6284": {
+    "lat": 32.556852965448,
+    "lon": -116.959276505932,
+    "matched_address": "8580 AVE DE LA FUENTE, SAN DIEGO, CA, 92154",
+    "side": "L",
+    "tiger_line_id": "195656012"
+  },
+  "8586 ENCINITAS WAY SAN DIEGO CA 92114-7423": {
+    "lat": 32.706703077661,
+    "lon": -117.022486763538,
+    "matched_address": "8586 ENCINITAS WAY, SAN DIEGO, CA, 92114",
+    "side": "L",
+    "tiger_line_id": "195361205"
+  },
+  "8604 RANDOLPH ST RIVERSIDE 92503, Randolph St Riverside CA 92503.0": {
+    "lat": 33.952392468091,
+    "lon": -117.464856060814,
+    "matched_address": "8604 RANDOLPH ST, RIVERSIDE, CA, 92503",
+    "side": "L",
+    "tiger_line_id": "194736345"
+  },
+  "86050 CALLE PIZANO COACHELLA 92236, Calle Pizano Coachella CA 92236.0": {
+    "lat": 33.679906367079,
+    "lon": -116.163200371623,
+    "matched_address": "86050 CLL PIZANO, COACHELLA, CA, 92236",
+    "side": "L",
+    "tiger_line_id": "194776665"
+  },
+  "8856 LAWRENCE WELK DR ESCONDIDO CA 92026-6403": {
+    "lat": 33.233158392716,
+    "lon": -117.14309039987,
+    "matched_address": "8856 LAWRENCE WELK DR, ESCONDIDO, CA, 92026",
+    "side": "R",
+    "tiger_line_id": "195308000"
+  },
+  "8858 LAWRENCE WELK DR ESCONDIDO CA 92026-6403": {
+    "lat": 33.233144814831,
+    "lon": -117.143142054875,
+    "matched_address": "8858 LAWRENCE WELK DR, ESCONDIDO, CA, 92026",
+    "side": "R",
+    "tiger_line_id": "195308000"
+  },
+  "8860 LAWRENCE WELK DR ESCONDIDO CA 92026-6403": {
+    "lat": 33.233131236946,
+    "lon": -117.14319370988,
+    "matched_address": "8860 LAWRENCE WELK DR, ESCONDIDO, CA, 92026",
+    "side": "R",
+    "tiger_line_id": "195308000"
+  },
+  "904 MONTCLAIR DR BANNING 92220, Montclair Dr Banning CA 92220.0": {
+    "lat": 33.933747200776,
+    "lon": -116.882761497859,
+    "matched_address": "904 MONTCLAIR DR, BANNING, CA, 92220",
+    "side": "R",
+    "tiger_line_id": "194813248"
+  },
+  "904 NORTH STRAND OCEANSIDE CA 92054-1932": {
+    "lat": 33.199428672846,
+    "lon": -117.388390132721,
+    "matched_address": "904 THE STRAND N, OCEANSIDE, CA, 92054",
+    "side": "R",
+    "tiger_line_id": "195425321"
+  },
+  "907 WELLS ST BLYTHE 92225, Wells St Blythe CA 92225.0": {},
+  "91189 4TH ST MECCA 92254, St Mecca CA 92254.0": {
+    "lat": 33.571935783926,
+    "lon": -116.075754798092,
+    "matched_address": "91189 4TH ST, MECCA, CA, 92254",
+    "side": "L",
+    "tiger_line_id": "194699463"
+  },
+  "91466 4TH ST MECCA 92254, St Mecca CA 92254.0": {},
+  "919 OLIVE AVE FALLBROOK CA 92028-1560": {
+    "lat": 33.389530456269,
+    "lon": -117.247008037738,
+    "matched_address": "919 OLIVE AVE, FALLBROOK, CA, 92028",
+    "side": "R",
+    "tiger_line_id": "195281792"
+  },
+  "9232 E HOBSON WAY BLYTHE 92225, E Hobson Way Blythe CA 92225.0": {},
+  "930 SANTA VICTORIA ST HEMET 92543, Santa Victoria St Hemet CA 92543.0": {
+    "lat": 33.732528187042,
+    "lon": -116.985803603145,
+    "matched_address": "930 SANTA VICTORIA ST, HEMET, CA, 92543",
+    "side": "L",
+    "tiger_line_id": "194756806"
+  },
+  "9439 DELFERN LN RIVERSIDE 92509, Delfern Ln Riverside CA 92509.0": {
+    "lat": 34.00901033378,
+    "lon": -117.489645211758,
+    "matched_address": "9439 DELFERN LN, RIVERSIDE, CA, 92509",
+    "side": "R",
+    "tiger_line_id": "194828758"
+  },
+  "9593 BROADWAY BLYTHE 92225, Broadway Blythe CA 92225.0": {},
+  "9669 ST GEORGE ST SPRING VALLEY CA 91977-5247": {
+    "lat": 32.710517102945,
+    "lon": -116.990288357124,
+    "matched_address": "9669 SAINT GEORGE ST, SPRING VALLEY, CA, 91977",
+    "side": "R",
+    "tiger_line_id": "195363386"
+  },
+  "985 SANTA TERESA WAY HEMET 92545, Santa Teresa Way Hemet CA 92545.0": {
+    "lat": 33.731339209135,
+    "lon": -116.990858946475,
+    "matched_address": "985 SANTA TERESA WAY, HEMET, CA, 92545",
+    "side": "R",
+    "tiger_line_id": "194756686"
+  },
+  "994 7TH ST CALIMESA 92320, St Calimesa CA 92320.0": {},
+  "9966 DOLORES ST #209 SPRING VALLEY CA 91977-1525": {
+    "lat": 32.747103622764,
+    "lon": -116.98083056951,
+    "matched_address": "9966 DOLORES ST, SPRING VALLEY, CA, 91977",
+    "side": "L",
+    "tiger_line_id": "195362372"
+  },
+  "BORREGO SPRINGS CA": {},
+  "BORREGO SPRINGS RD BORREGO SPRINGS CA 92004": {},
+  "BOULEVARD CA": {},
+  "BUSH ST SAN DIEGO CA": {},
+  "CARLSBAD CA": {},
+  "CARLSBAD INN TIMESHARE CARLSBAD CA 92008": {},
+  "CASE ST LA MESA CA 91942": {},
+  "DEL MAR CA": {},
+  "DI GIORGIO RD BORREGO SPRINGS CA 92004": {},
+  "EAGLES CREST RD RAMONA CA 92065": {},
+  "FAIRWAY HILL CIR ESCONDIDO CA 92026": {},
+  "FAIRWAY HILL ESCONDIDO CA 92026": {},
+  "FOREST PARK RD JAMUL CA 91935": {},
+  "FRYING PAN RD BORREGO SPRINGS CA 92004": {},
+  "HIGHWAY 94 POTRERO CA 91963": {},
+  "IRON SPRINGS PL JULIAN CA": {},
+  "J ST, San Diego CA 92102.0": {},
+  "JULY ST SAN DIEGO CA 92110": {},
+  "KENNEDY CT ESCONDIDO CA 92027": {},
+  "LAST DOLLAR TRL JULIAN CA 92036": {},
+  "MACTAN RD VALLEY CENTER CA 92082": {},
+  "MANZANITA DR JULIAN CA": {},
+  "MILE HI RD JULIAN CA": {},
+  "MILE HI RD JULIAN CA 92036": {},
+  "MILE HIGH RD JULIAN CA": {},
+  "MILLER RD VALLEY CENTER CA": {},
+  "MYERS ST OCEANSIDE CA 92054": {},
+  "OCEANSIDE CA": {},
+  "ORANGE AVE CORONADO CA 92118": {},
+  "PAPPAS RD RAMONA CA 92065": {},
+  "RAINBOW CREST RD FALLBROOK CA 92028": {},
+  "S ESCONDIDO BLVD, Escondido CA 92036.0": {},
+  "S MISSION RD, Bonsall CA 92003.0": {},
+  "SAN DIEGO CA": {},
+  "SAN YSIDRO CA": {},
+  "SILVERBROOK DR EL CAJON CA 92019-1494": {},
+  "SPLIT MOUNTAIN RD BORREGO SPRINGS CA 92004": {},
+  "TIERRA HEIGHTS RD BOULEVARD CA 91905": {},
+  "TWIN OAKS JULIAN CA 92036": {},
+  "VALI HAI RD POWAY CA 92064": {},
+  "VALLEY CENTER CA": {},
+  "WILSHIRE DR SAN DIEGO CA 92116": {},
+  "WINDFALL TRL JULIAN CA 92036": {}
+}

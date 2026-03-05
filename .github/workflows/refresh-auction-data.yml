@@ -1,0 +1,68 @@
+name: Refresh Auction Data
+
+on:
+  schedule:
+    - cron: "17 14 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-auction-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Fetch SD history (best effort)
+        run: |
+          python tools/fetch_sd_prior_sales.py || echo "History fetch failed; using existing snapshot."
+
+      - name: Run pro pipeline
+        run: |
+          python tools/run_pro_pipeline.py \
+            --skip-history-fetch \
+            --budget 1000000 \
+            --max-properties 15 \
+            --top-packets 40 \
+            --overlay-max-points 600 \
+            --overlay-workers 12
+
+      - name: Commit refreshed artifacts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add output
+          if [ -f data/sd_prior_sales.csv ]; then git add data/sd_prior_sales.csv; fi
+          if [ -f data/geocode_cache.json ]; then git add data/geocode_cache.json; fi
+
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+            exit 0
+          fi
+
+          git commit -m "chore: refresh auction outputs"
+          git push
