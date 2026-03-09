@@ -4,9 +4,9 @@ Generated packets: 39
 
 | Rank | County | APN | City | Pro Score | ROI Pro | Packet |
 |---|---|---|---|---|---|---|
-| 1 | San Diego | 4760211102 | San Diego | 77.3 | 260.9% | san-diego-4760211102.md |
+| 1 | San Diego | 5171215700 | El Cajon | 77.3 | 270.4% | san-diego-5171215700.md |
 | 2 | San Diego | 4906313100 | La Mesa | 77.3 | 635.5% | san-diego-4906313100.md |
-| 3 | San Diego | 5171215700 | El Cajon | 77.3 | 270.4% | san-diego-5171215700.md |
+| 3 | San Diego | 4760211102 | San Diego | 77.3 | 260.9% | san-diego-4760211102.md |
 | 4 | San Diego | 4906312700 | La Mesa | 75.9 | 620.8% | san-diego-4906312700.md |
 | 5 | San Diego | 2771500100 | Ramona | 75.9 | 572.3% | san-diego-2771500100.md |
 | 6 | San Diego | 5461000500 | San Diego | 74.7 | 253.9% | san-diego-5461000500.md |
@@ -28,8 +28,8 @@ Generated packets: 39
 | 22 | San Diego | 5221604300 | Jamul | 64.6 | 129.3% | san-diego-5221604300.md |
 | 23 | San Diego | 1262306900 | Bonsall | 64.4 | 132.4% | san-diego-1262306900.md |
 | 24 | San Diego | 1882232400 | Valley Center | 64.3 | 131.3% | san-diego-1882232400.md |
-| 25 | San Diego | 1882232100 | Valley Center | 64.1 | 129.4% | san-diego-1882232100.md |
-| 26 | San Diego | 1882232200 | Valley Center | 64.1 | 129.4% | san-diego-1882232200.md |
+| 25 | San Diego | 1882232200 | Valley Center | 64.1 | 129.4% | san-diego-1882232200.md |
+| 26 | San Diego | 1882232100 | Valley Center | 64.1 | 129.4% | san-diego-1882232100.md |
 | 27 | San Diego | 4510722200 | San Diego | 63.7 | 128.0% | san-diego-4510722200.md |
 | 28 | San Diego | 6520601100 | Potrero | 63.7 | 118.0% | san-diego-6520601100.md |
 | 29 | San Diego | 3991601200 | El Cajon | 61.1 | 98.3% | san-diego-3991601200.md |

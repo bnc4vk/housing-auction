@@ -4,9 +4,9 @@ Risk-adjusted ranking from the current Riverside + San Diego auction lists.
 
 | rank | county | parcel_id | property_type | city | opening_bid | estimated_market_value | estimated_total_cost | gross_upside | estimated_roi_pct | confidence_score | hidden_gem_score | recommended_property |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | San Diego | 4760211102 | Improved Property | San Diego | $8,000 | $96,952 | $23,925 | $73,027 | 305.2 | 92 | 98.4 | True |
+| 1 | San Diego | 5171215700 | Improved Property | El Cajon | $91,000 | $815,855 | $206,360 | $609,495 | 295.4 | 92 | 98.4 | True |
 | 2 | San Diego | 4906313100 | Improved Property | La Mesa | $128,000 | $2,132,969 | $272,173 | $1,860,796 | 683.7 | 92 | 98.4 | True |
-| 3 | San Diego | 5171215700 | Improved Property | El Cajon | $91,000 | $815,855 | $206,360 | $609,495 | 295.4 | 92 | 98.4 | True |
+| 3 | San Diego | 4760211102 | Improved Property | San Diego | $8,000 | $96,952 | $23,925 | $73,027 | 305.2 | 92 | 98.4 | True |
 | 4 | San Diego | 4906312700 | Unimproved property | La Mesa | $64,000 | $1,069,557 | $145,136 | $924,421 | 636.9 | 92 | 88.6 | True |
 | 5 | San Diego | 2771500100 | Unimproved property | Ramona | $52,000 | $812,407 | $117,925 | $694,482 | 588.9 | 92 | 88.6 | True |
 | 6 | San Diego | 5461000500 | Unimproved property | San Diego | $103,900 | $796,478 | $220,930 | $575,548 | 260.5 | 92 | 87.2 | True |
@@ -28,8 +28,8 @@ Risk-adjusted ranking from the current Riverside + San Diego auction lists.
 | 22 | San Diego | 5221604300 | Unimproved property | Jamul | $7,700 | $56,889 | $23,028 | $33,861 | 147.0 | 100 | 75.4 | True |
 | 23 | San Diego | 1262306900 | Unimproved property | Bonsall | $11,400 | $83,661 | $34,088 | $49,573 | 145.4 | 100 | 75.2 | True |
 | 24 | San Diego | 1882232400 | Unimproved property | Valley Center | $11,400 | $83,270 | $34,088 | $49,182 | 144.3 | 100 | 75.0 | True |
-| 25 | San Diego | 1882232100 | Unimproved property | Valley Center | $11,500 | $83,270 | $34,387 | $48,883 | 142.2 | 100 | 74.8 | True |
-| 26 | San Diego | 1882232200 | Unimproved property | Valley Center | $11,500 | $83,270 | $34,387 | $48,883 | 142.2 | 100 | 74.8 | True |
+| 25 | San Diego | 1882232200 | Unimproved property | Valley Center | $11,500 | $83,270 | $34,387 | $48,883 | 142.2 | 100 | 74.8 | True |
+| 26 | San Diego | 1882232100 | Unimproved property | Valley Center | $11,500 | $83,270 | $34,387 | $48,883 | 142.2 | 100 | 74.8 | True |
 | 27 | San Diego | 4510722200 | Unimproved property | San Diego | $16,000 | $113,781 | $47,838 | $65,943 | 137.8 | 100 | 74.3 | True |
 | 28 | San Diego | 6520601100 | Unimproved property | Potrero | $6,400 | $45,510 | $19,143 | $26,367 | 137.7 | 100 | 74.3 | True |
 | 29 | San Diego | 3991601200 | Unimproved property | El Cajon | $6,200 | $40,185 | $18,545 | $21,640 | 116.7 | 100 | 71.2 | True |
