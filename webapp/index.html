@@ -15,12 +15,14 @@
   <body>
     <div class="app">
       <aside class="panel">
-        <h1>Auction Property Explorer</h1>
-        <p class="subtitle">Satellite map + unified enriched scoring</p>
+        <div class="panel-head">
+          <h1>Auction Explorer</h1>
+          <button id="toggleFiltersBtn" class="filters-toggle" type="button">Filters</button>
+        </div>
 
-        <div class="controls">
-          <label>
-            Search APN/City
+        <div class="controls" id="controls">
+          <label class="full">
+            Search
             <input id="searchInput" type="text" placeholder="e.g. 4906313100 or La Mesa" />
           </label>
           <label>
@@ -32,22 +34,24 @@
             </select>
           </label>
           <label>
-            Min Unified Score
-            <input id="minScoreInput" type="number" min="0" max="100" step="1" value="0" />
+            Top
+            <input id="limitInput" type="number" min="10" max="1500" step="10" value="10" />
           </label>
           <label class="inline">
-            <input id="recommendedOnly" type="checkbox" />
-            Bid candidates only
+            <input id="buildableOnly" type="checkbox" />
+            <span class="hover-hint hover-hint-left hover-hint-wide hover-hint-text" tabindex="0">
+              Buildability pass only
+              <span class="hover-bubble"
+                >Pass means the parcel passed automated screen checks for size, hazard overlays, and basic
+                buildability signals.</span
+              >
+            </span>
           </label>
           <label class="inline">
-            <input id="showBoundaries" type="checkbox" />
-            Show parcel boundaries
+            <input id="showUnmapped" type="checkbox" />
+            Show unmapped
           </label>
-          <label>
-            Show top
-            <input id="limitInput" type="number" min="10" max="1500" step="10" value="300" />
-          </label>
-          <button id="resetBtn">Reset Filters</button>
+          <button id="resetBtn" class="full" type="button">Reset</button>
         </div>
 
         <div class="stats" id="stats"></div>
